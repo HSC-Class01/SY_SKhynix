@@ -1,0 +1,1920 @@
+﻿year,company,statement,account,account_id,current_amount,previous_amount,currency
+2015,SK하이닉스,재무상태표,유동자산,ifrs_CurrentAssets,9760030000000,10363514000000,KRW
+2015,SK하이닉스,재무상태표,현금및현금성자산,ifrs_CashAndCashEquivalents,1175719000000,436761000000,KRW
+2015,SK하이닉스,재무상태표,단기금융상품,-표준계정코드 미사용-,3615554000000,3618014000000,KRW
+2015,SK하이닉스,재무상태표,매출채권,ifrs_TradeAndOtherCurrentReceivables,2628448000000,3732926000000,KRW
+2015,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,61613000000,881885000000,KRW
+2015,SK하이닉스,재무상태표,재고자산,ifrs_Inventories,1923376000000,1497563000000,KRW
+2015,SK하이닉스,재무상태표,당기법인세자산,ifrs_CurrentTaxAssets,1394000000,1629000000,KRW
+2015,SK하이닉스,재무상태표,매각예정자산,ifrs_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,,27661000000,KRW
+2015,SK하이닉스,재무상태표,기타금융자산,ifrs_OtherCurrentFinancialAssets,,,KRW
+2015,SK하이닉스,재무상태표,기타유동자산,ifrs_OtherCurrentNonfinancialAssets,353926000000,167075000000,KRW
+2015,SK하이닉스,재무상태표,비유동자산,ifrs_NoncurrentAssets,19917876000000,16519764000000,KRW
+2015,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs_InvestmentAccountedForUsingEquityMethod,122609000000,97090000000,KRW
+2015,SK하이닉스,재무상태표,매도가능금융자산,-표준계정코드 미사용-,131354000000,127314000000,KRW
+2015,SK하이닉스,재무상태표,기타수취채권,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,62919000000,58989000000,KRW
+2015,SK하이닉스,재무상태표,기타금융자산,ifrs_OtherNoncurrentFinancialAssets,430000000,323000000,KRW
+2015,SK하이닉스,재무상태표,유형자산,ifrs_PropertyPlantAndEquipment,16966252000000,14090334000000,KRW
+2015,SK하이닉스,재무상태표,무형자산,dart_GoodwillGross,1704896000000,1336680000000,KRW
+2015,SK하이닉스,재무상태표,투자부동산,ifrs_InvestmentProperty,2679000000,28456000000,KRW
+2015,SK하이닉스,재무상태표,이연법인세자산,ifrs_DeferredTaxAssets,361204000000,272102000000,KRW
+2015,SK하이닉스,재무상태표,기타비유동자산,ifrs_OtherNoncurrentNonfinancialAssets,565533000000,508476000000,KRW
+2015,SK하이닉스,재무상태표,자산총계,ifrs_Assets,29677906000000,26883278000000,KRW
+2015,SK하이닉스,재무상태표,유동부채,ifrs_CurrentLiabilities,4840698000000,5765304000000,KRW
+2015,SK하이닉스,재무상태표,매입채무,ifrs_TradeAndOtherCurrentPayables,791373000000,787822000000,KRW
+2015,SK하이닉스,재무상태표,미지급금,-표준계정코드 미사용-,1337803000000,1358816000000,KRW
+2015,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,1001171000000,1182956000000,KRW
+2015,SK하이닉스,재무상태표,차입금,dart_ShortTermBorrowings,1013372000000,1755020000000,KRW
+2015,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherCurrentFinancialLiabilities,,30000000,KRW
+2015,SK하이닉스,재무상태표,유동충당부채,ifrs_CurrentProvisions,25276000000,25932000000,KRW
+2015,SK하이닉스,재무상태표,당기법인세부채,ifrs_CurrentTaxLiabilities,627260000000,583529000000,KRW
+2015,SK하이닉스,재무상태표,기타유동부채,ifrs_OtherCurrentNonfinancialLiabilities,44443000000,71199000000,KRW
+2015,SK하이닉스,재무상태표,비유동부채,ifrs_NoncurrentLiabilities,3449505000000,3081671000000,KRW
+2015,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,89891000000,132947000000,KRW
+2015,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,2805223000000,2419739000000,KRW
+2015,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherNoncurrentFinancialLiabilities,683000000,708000000,KRW
+2015,SK하이닉스,재무상태표,확정급여부채,dart_PostemploymentBenefitObligations,484977000000,465350000000,KRW
+2015,SK하이닉스,재무상태표,이연법인세부채,ifrs_DeferredTaxLiabilities,7582000000,3463000000,KRW
+2015,SK하이닉스,재무상태표,기타비유동부채,ifrs_OtherNoncurrentNonfinancialLiabilities,61149000000,59464000000,KRW
+2015,SK하이닉스,재무상태표,부채총계,ifrs_Liabilities,8290203000000,8846975000000,KRW
+2015,SK하이닉스,재무상태표,지배기업의 소유주에게 귀속되는 자본,ifrs_EquityAttributableToOwnersOfParent,21386863000000,18036453000000,KRW
+2015,SK하이닉스,재무상태표,자본금,dart_ContributedEquity,3657652000000,3657652000000,KRW
+2015,SK하이닉스,재무상태표,자본잉여금,dart_ElementsOfOtherStockholdersEquity,4143736000000,4143736000000,KRW
+2015,SK하이닉스,재무상태표,기타자본,-표준계정코드 미사용-,-771913000000,-24000000,KRW
+2015,SK하이닉스,재무상태표,기타포괄손익누계액,-표준계정코드 미사용-,-1600000000,-41815000000,KRW
+2015,SK하이닉스,재무상태표,이익잉여금(결손금),ifrs_RetainedEarnings,14358988000000,10276904000000,KRW
+2015,SK하이닉스,재무상태표,비지배지분,ifrs_NoncontrollingInterests,840000000,-150000000,KRW
+2015,SK하이닉스,재무상태표,자본총계,ifrs_Equity,21387703000000,18036303000000,KRW
+2015,SK하이닉스,재무상태표,자본과부채총계,ifrs_EquityAndLiabilities,29677906000000,26883278000000,KRW
+2015,SK하이닉스,포괄손익계산서,매출액,ifrs_Revenue,18797998000000,17125566000000,KRW
+2015,SK하이닉스,포괄손익계산서,매출원가,ifrs_CostOfSales,10515353000000,9461725000000,KRW
+2015,SK하이닉스,포괄손익계산서,매출총이익,ifrs_GrossProfit,8282645000000,7663841000000,KRW
+2015,SK하이닉스,포괄손익계산서,판매비와경상개발비,dart_TotalSellingGeneralAdministrativeExpenses,2946545000000,2554375000000,KRW
+2015,SK하이닉스,포괄손익계산서,영업이익(손실),dart_OperatingIncomeLoss,5336100000000,5109466000000,KRW
+2015,SK하이닉스,포괄손익계산서,금융수익,ifrs_FinanceIncome,846752000000,678570000000,KRW
+2015,SK하이닉스,포괄손익계산서,금융비용,ifrs_FinanceCosts,829913000000,799771000000,KRW
+2015,SK하이닉스,포괄손익계산서,지분법 손익,ifrs_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,24642000000,23145000000,KRW
+2015,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,40479000000,618684000000,KRW
+2015,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,148939000000,582424000000,KRW
+2015,SK하이닉스,포괄손익계산서,법인세비용차감전순이익(손실),ifrs_ProfitLossBeforeTax,5269121000000,5047670000000,KRW
+2015,SK하이닉스,포괄손익계산서,법인세비용,ifrs_IncomeTaxExpenseContinuingOperations,945526000000,852501000000,KRW
+2015,SK하이닉스,포괄손익계산서,당기순이익(손실),ifrs_ProfitLoss,4323595000000,4195169000000,KRW
+2015,SK하이닉스,포괄손익계산서,기타포괄손익,ifrs_OtherComprehensiveIncome,18095000000,-52361000000,KRW
+2015,SK하이닉스,포괄손익계산서,당기손익으로 재분류되지 않는 세후기타포괄손익,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,-21871000000,-119874000000,KRW
+2015,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,ifrs_OtherComprehensiveIncomeNetOfTaxActuarialGainsLossesOnDefinedBenefitPlans,-21871000000,-119874000000,KRW
+2015,SK하이닉스,포괄손익계산서,당기손익으로 재분류되는 세후기타포괄손익,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,33479000000,63807000000,KRW
+2015,SK하이닉스,포괄손익계산서,매도가능금융자산평가손익,ifrs_OtherComprehensiveIncomeNetOfTaxAvailableforsaleFinancialAssets,,-7824000000,KRW
+2015,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,33479000000,71631000000,KRW
+2015,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,6487000000,3706000000,KRW
+2015,SK하이닉스,포괄손익계산서,총포괄손익 소계,ifrs_ComprehensiveIncome,4341690000000,4142808000000,KRW
+2015,SK하이닉스,포괄손익계산서,지배기업의 소유지분,ifrs_ProfitLossAttributableToOwnersOfParent,4322356000000,4195456000000,KRW
+2015,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ProfitLossAttributableToNoncontrollingInterests,1239000000,-287000000,KRW
+2015,SK하이닉스,포괄손익계산서,지배기업의 소유지분,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,4340700000000,4142574000000,KRW
+2015,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,990000000,234000000,KRW
+2015,SK하이닉스,포괄손익계산서,기본주당이익(원),ifrs_BasicEarningsLossPerShare,6002,5842,KRW
+2015,SK하이닉스,포괄손익계산서,희석주당이익(원),ifrs_DilutedEarningsLossPerShare,6002,5842,KRW
+2015,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs_CashFlowsFromUsedInOperatingActivities,9319520000000,5866691000000,KRW
+2015,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,ifrs_AdjustmentsForReconcileProfitLoss,10357267000000,6305229000000,KRW
+2015,SK하이닉스,현금흐름표,이자수취,ifrs_InterestReceivedClassifiedAsOperatingActivities,51610000000,35658000000,KRW
+2015,SK하이닉스,현금흐름표,이자지급,ifrs_InterestPaidClassifiedAsOperatingActivities,124304000000,151551000000,KRW
+2015,SK하이닉스,현금흐름표,배당금수취,ifrs_DividendsReceivedClassifiedAsOperatingActivities,17045000000,17134000000,KRW
+2015,SK하이닉스,현금흐름표,법인세납부(환급),ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,982098000000,339779000000,KRW
+2015,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs_CashFlowsFromUsedInInvestingActivities,-7125530000000,-6087827000000,KRW
+2015,SK하이닉스,현금흐름표,단기금융상품의 순증감,dart_ProceedsFromSalesOfShortTermFinancialInstruments,39533000000,-1407752000000,KRW
+2015,SK하이닉스,현금흐름표,기타수취채권의 감소,-표준계정코드 미사용-,10692000000,3501000000,KRW
+2015,SK하이닉스,현금흐름표,기타수취채권의 증가,-표준계정코드 미사용-,14134000000,15735000000,KRW
+2015,SK하이닉스,현금흐름표,매도가능금융자산의 처분,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,1319000000,28602000000,KRW
+2015,SK하이닉스,현금흐름표,매도가능금융자산의 취득,dart_PurchaseOfAvailableForSaleFinancialAssets,5359000000,1415000000,KRW
+2015,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,,275422000000,KRW
+2015,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,,29611000000,KRW
+2015,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유입,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,1672000000,2371000000,KRW
+2015,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유출,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,2088000000,4534000000,KRW
+2015,SK하이닉스,현금흐름표,유형자산의 처분,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,220097000000,198959000000,KRW
+2015,SK하이닉스,현금흐름표,유형자산의 취득,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,6774625000000,4800722000000,KRW
+2015,SK하이닉스,현금흐름표,무형자산의 처분,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,7963000000,286000000,KRW
+2015,SK하이닉스,현금흐름표,무형자산의 취득,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,623743000000,336291000000,KRW
+2015,SK하이닉스,현금흐름표,매각예정자산의 처분,-표준계정코드 미사용-,22630000000,,KRW
+2015,SK하이닉스,현금흐름표,정부보조금수령,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,406000000,20241000000,KRW
+2015,SK하이닉스,현금흐름표,사업결합으로 인한 현금유출,-표준계정코드 미사용-,,19682000000,KRW
+2015,SK하이닉스,현금흐름표,종속기업 처분으로 인한 현금유출,-표준계정코드 미사용-,,-1467000000,KRW
+2015,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInAssociates,9893000000,,KRW
+2015,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs_CashFlowsFromUsedInFinancingActivities,-1462257000000,28343000000,KRW
+2015,SK하이닉스,현금흐름표,차입금의 증가,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,3933056000000,3848816000000,KRW
+2015,SK하이닉스,현금흐름표,차입금의 상환,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,4405023000000,3820449000000,KRW
+2015,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,771889000000,24000000,KRW
+2015,SK하이닉스,현금흐름표,배당금의 지급,ifrs_DividendsPaidClassifiedAsFinancingActivities,218401000000,,KRW
+2015,SK하이닉스,현금흐름표,현금및현금성자산에 대한 환율변동효과,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,7225000000,-2313000000,KRW
+2015,SK하이닉스,현금흐름표,현금및현금성자산의 순증가(감소),ifrs_IncreaseDecreaseInCashAndCashEquivalents,738958000000,-195106000000,KRW
+2015,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,436731000000,631867000000,KRW
+2015,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,1175719000000,436761000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,10276904000000,6201322000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-41815000000,-108807000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-24000000,,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3568645000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,3406083000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,18036303000000,13066859000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-150000000,-384000000,KRW
+2015,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,18036453000000,13067243000000,KRW
+2015,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,4322356000000,4195456000000,KRW
+2015,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,4322356000000,4195456000000,KRW
+2015,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,4323595000000,4195169000000,KRW
+2015,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,1239000000,-287000000,KRW
+2015,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,-7824000000,KRW
+2015,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,-7824000000,KRW
+2015,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,-7824000000,KRW
+2015,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-21871000000,-119874000000,KRW
+2015,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-21871000000,-119874000000,KRW
+2015,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-21871000000,-119874000000,KRW
+2015,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,6487000000,3706000000,KRW
+2015,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,6487000000,3706000000,KRW
+2015,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,6487000000,3706000000,KRW
+2015,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,33479000000,71631000000,KRW
+2015,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,-249000000,521000000,KRW
+2015,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,33728000000,71110000000,KRW
+2015,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,33728000000,71110000000,KRW
+2015,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,4300485000000,4075582000000,KRW
+2015,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,40215000000,66992000000,KRW
+2015,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,4340700000000,4142574000000,KRW
+2015,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,4341690000000,4142808000000,KRW
+2015,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,990000000,234000000,KRW
+2015,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-218401000000,,KRW
+2015,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-218401000000,,KRW
+2015,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-218401000000,,KRW
+2015,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,6793000000,KRW
+2015,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,54070000000,KRW
+2015,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,54070000000,KRW
+2015,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,47277000000,KRW
+2015,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,82214000000,KRW
+2015,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,772590000000,KRW
+2015,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,772590000000,KRW
+2015,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,690376000000,KRW
+2015,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,-771889000000,-24000000,KRW
+2015,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,-771889000000,-24000000,KRW
+2015,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,-771889000000,-24000000,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,,89007000000,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-218401000000,,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-771889000000,-24000000,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,,737653000000,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-990290000000,826636000000,KRW
+2015,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-990290000000,826636000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,4143736000000,4143736000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,3657652000000,3657652000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,14358988000000,10276904000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-771913000000,-24000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,21386863000000,18036453000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,840000000,-150000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,21387703000000,18036303000000,KRW
+2015,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-1600000000,-41815000000,KRW
+2016,SK하이닉스,재무상태표,유동자산,ifrs_CurrentAssets,9838982000000,9760030000000,KRW
+2016,SK하이닉스,재무상태표,현금및현금성자산,ifrs_CashAndCashEquivalents,613786000000,1175719000000,KRW
+2016,SK하이닉스,재무상태표,단기금융상품,-표준계정코드 미사용-,3521893000000,3615554000000,KRW
+2016,SK하이닉스,재무상태표,매출채권,ifrs_TradeAndOtherCurrentReceivables,3251652000000,2628448000000,KRW
+2016,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,25611000000,61613000000,KRW
+2016,SK하이닉스,재무상태표,재고자산,ifrs_Inventories,2026198000000,1923376000000,KRW
+2016,SK하이닉스,재무상태표,당기법인세자산,ifrs_CurrentTaxAssets,489000000,1394000000,KRW
+2016,SK하이닉스,재무상태표,매각예정자산,ifrs_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,,,KRW
+2016,SK하이닉스,재무상태표,기타유동자산,ifrs_OtherCurrentNonfinancialAssets,399353000000,353926000000,KRW
+2016,SK하이닉스,재무상태표,비유동자산,ifrs_NoncurrentAssets,22377044000000,19917876000000,KRW
+2016,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs_InvestmentAccountedForUsingEquityMethod,131016000000,122609000000,KRW
+2016,SK하이닉스,재무상태표,매도가능금융자산,-표준계정코드 미사용-,147779000000,131354000000,KRW
+2016,SK하이닉스,재무상태표,기타수취채권,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,39490000000,62919000000,KRW
+2016,SK하이닉스,재무상태표,기타금융자산,ifrs_OtherNoncurrentFinancialAssets,423000000,430000000,KRW
+2016,SK하이닉스,재무상태표,유형자산,ifrs_PropertyPlantAndEquipment,18777402000000,16966252000000,KRW
+2016,SK하이닉스,재무상태표,무형자산,dart_GoodwillGross,1915591000000,1704896000000,KRW
+2016,SK하이닉스,재무상태표,투자부동산,ifrs_InvestmentProperty,2573000000,2679000000,KRW
+2016,SK하이닉스,재무상태표,이연법인세자산,ifrs_DeferredTaxAssets,792368000000,361204000000,KRW
+2016,SK하이닉스,재무상태표,기타비유동자산,ifrs_OtherNoncurrentNonfinancialAssets,570402000000,565533000000,KRW
+2016,SK하이닉스,재무상태표,자산총계,ifrs_Assets,32216026000000,29677906000000,KRW
+2016,SK하이닉스,재무상태표,유동부채,ifrs_CurrentLiabilities,4160849000000,4840698000000,KRW
+2016,SK하이닉스,재무상태표,매입채무,ifrs_TradeAndOtherCurrentPayables,696144000000,791373000000,KRW
+2016,SK하이닉스,재무상태표,미지급금,-표준계정코드 미사용-,1606417000000,1337803000000,KRW
+2016,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,685154000000,1001171000000,KRW
+2016,SK하이닉스,재무상태표,차입금,dart_ShortTermBorrowings,704860000000,1013372000000,KRW
+2016,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherCurrentFinancialLiabilities,288000000,,KRW
+2016,SK하이닉스,재무상태표,유동충당부채,ifrs_CurrentProvisions,42822000000,25276000000,KRW
+2016,SK하이닉스,재무상태표,당기법인세부채,ifrs_CurrentTaxLiabilities,374666000000,627260000000,KRW
+2016,SK하이닉스,재무상태표,기타유동부채,ifrs_OtherCurrentNonfinancialLiabilities,50498000000,44443000000,KRW
+2016,SK하이닉스,재무상태표,비유동부채,ifrs_NoncurrentLiabilities,4031647000000,3449505000000,KRW
+2016,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,27426000000,89891000000,KRW
+2016,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,3631118000000,2805223000000,KRW
+2016,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherNoncurrentFinancialLiabilities,,683000000,KRW
+2016,SK하이닉스,재무상태표,확정급여부채,dart_PostemploymentBenefitObligations,306488000000,484977000000,KRW
+2016,SK하이닉스,재무상태표,이연법인세부채,ifrs_DeferredTaxLiabilities,4732000000,7582000000,KRW
+2016,SK하이닉스,재무상태표,기타비유동부채,ifrs_OtherNoncurrentNonfinancialLiabilities,61883000000,61149000000,KRW
+2016,SK하이닉스,재무상태표,부채총계,ifrs_Liabilities,8192496000000,8290203000000,KRW
+2016,SK하이닉스,재무상태표,지배기업의 소유주에게 귀속되는 자본,ifrs_EquityAttributableToOwnersOfParent,24016955000000,21386863000000,KRW
+2016,SK하이닉스,재무상태표,자본금,dart_ContributedEquity,3657652000000,3657652000000,KRW
+2016,SK하이닉스,재무상태표,자본잉여금,dart_ElementsOfOtherStockholdersEquity,4143736000000,4143736000000,KRW
+2016,SK하이닉스,재무상태표,기타자본,-표준계정코드 미사용-,-771913000000,-771913000000,KRW
+2016,SK하이닉스,재무상태표,기타포괄손익누계액,-표준계정코드 미사용-,-79103000000,-1600000000,KRW
+2016,SK하이닉스,재무상태표,이익잉여금(결손금),ifrs_RetainedEarnings,17066583000000,14358988000000,KRW
+2016,SK하이닉스,재무상태표,비지배지분,ifrs_NoncontrollingInterests,6575000000,840000000,KRW
+2016,SK하이닉스,재무상태표,자본총계,ifrs_Equity,24023530000000,21387703000000,KRW
+2016,SK하이닉스,재무상태표,자본과부채총계,ifrs_EquityAndLiabilities,32216026000000,29677906000000,KRW
+2016,SK하이닉스,포괄손익계산서,매출액,ifrs_Revenue,17197975000000,18797998000000,KRW
+2016,SK하이닉스,포괄손익계산서,매출원가,ifrs_CostOfSales,10787139000000,10515353000000,KRW
+2016,SK하이닉스,포괄손익계산서,매출총이익,ifrs_GrossProfit,6410836000000,8282645000000,KRW
+2016,SK하이닉스,포괄손익계산서,판매비와경상개발비,dart_TotalSellingGeneralAdministrativeExpenses,3134090000000,2946545000000,KRW
+2016,SK하이닉스,포괄손익계산서,영업이익(손실),dart_OperatingIncomeLoss,3276746000000,5336100000000,KRW
+2016,SK하이닉스,포괄손익계산서,금융수익,ifrs_FinanceIncome,814892000000,846752000000,KRW
+2016,SK하이닉스,포괄손익계산서,금융비용,ifrs_FinanceCosts,846328000000,829913000000,KRW
+2016,SK하이닉스,포괄손익계산서,지분법 손익,ifrs_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,22752000000,24642000000,KRW
+2016,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,52371000000,40479000000,KRW
+2016,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,103979000000,148939000000,KRW
+2016,SK하이닉스,포괄손익계산서,법인세비용차감전순이익(손실),ifrs_ProfitLossBeforeTax,3216454000000,5269121000000,KRW
+2016,SK하이닉스,포괄손익계산서,법인세비용,ifrs_IncomeTaxExpenseContinuingOperations,255971000000,945526000000,KRW
+2016,SK하이닉스,포괄손익계산서,당기순이익(손실),ifrs_ProfitLoss,2960483000000,4323595000000,KRW
+2016,SK하이닉스,포괄손익계산서,기타포괄손익,ifrs_OtherComprehensiveIncome,28844000000,18095000000,KRW
+2016,SK하이닉스,포괄손익계산서,당기손익으로 재분류되지 않는 세후기타포괄손익,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,106822000000,-21871000000,KRW
+2016,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,ifrs_OtherComprehensiveIncomeNetOfTaxActuarialGainsLossesOnDefinedBenefitPlans,106822000000,-21871000000,KRW
+2016,SK하이닉스,포괄손익계산서,당기손익으로 재분류되는 세후기타포괄손익,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,-82066000000,33479000000,KRW
+2016,SK하이닉스,포괄손익계산서,매도가능금융자산평가손익,ifrs_OtherComprehensiveIncomeNetOfTaxAvailableforsaleFinancialAssets,,,KRW
+2016,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,-82066000000,33479000000,KRW
+2016,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,4088000000,6487000000,KRW
+2016,SK하이닉스,포괄손익계산서,총포괄손익 소계,ifrs_ComprehensiveIncome,2989327000000,4341690000000,KRW
+2016,SK하이닉스,포괄손익계산서,지배기업의 소유지분,ifrs_ProfitLossAttributableToOwnersOfParent,2953774000000,4322356000000,KRW
+2016,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ProfitLossAttributableToNoncontrollingInterests,6709000000,1239000000,KRW
+2016,SK하이닉스,포괄손익계산서,지배기업의 소유지분,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,2982703000000,4340700000000,KRW
+2016,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,6624000000,990000000,KRW
+2016,SK하이닉스,포괄손익계산서,기본주당이익(원),ifrs_BasicEarningsLossPerShare,4184,6002,KRW
+2016,SK하이닉스,포괄손익계산서,희석주당이익(원),ifrs_DilutedEarningsLossPerShare,4184,6002,KRW
+2016,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs_CashFlowsFromUsedInOperatingActivities,5548922000000,9319520000000,KRW
+2016,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,ifrs_AdjustmentsForReconcileProfitLoss,6486781000000,10357267000000,KRW
+2016,SK하이닉스,현금흐름표,이자수취,ifrs_InterestReceivedClassifiedAsOperatingActivities,42895000000,51610000000,KRW
+2016,SK하이닉스,현금흐름표,이자지급,ifrs_InterestPaidClassifiedAsOperatingActivities,125818000000,124304000000,KRW
+2016,SK하이닉스,현금흐름표,배당금수취,ifrs_DividendsReceivedClassifiedAsOperatingActivities,20744000000,17045000000,KRW
+2016,SK하이닉스,현금흐름표,법인세납부(환급),ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,875680000000,982098000000,KRW
+2016,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs_CashFlowsFromUsedInInvestingActivities,-6230451000000,-7125530000000,KRW
+2016,SK하이닉스,현금흐름표,단기금융상품의 순증감,-표준계정코드 미사용-,109803000000,39533000000,KRW
+2016,SK하이닉스,현금흐름표,기타수취채권의 감소,-표준계정코드 미사용-,15422000000,10692000000,KRW
+2016,SK하이닉스,현금흐름표,기타수취채권의 증가,-표준계정코드 미사용-,13613000000,14134000000,KRW
+2016,SK하이닉스,현금흐름표,매도가능금융자산의 처분,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,2651000000,1319000000,KRW
+2016,SK하이닉스,현금흐름표,매도가능금융자산의 취득,dart_PurchaseOfAvailableForSaleFinancialAssets,19085000000,5359000000,KRW
+2016,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,5000000,,KRW
+2016,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,2000000,,KRW
+2016,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유입,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,1077000000,1672000000,KRW
+2016,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유출,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,1525000000,2088000000,KRW
+2016,SK하이닉스,현금흐름표,유형자산의 처분,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,162120000000,220097000000,KRW
+2016,SK하이닉스,현금흐름표,유형자산의 취득,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,5956354000000,6774625000000,KRW
+2016,SK하이닉스,현금흐름표,무형자산의 처분,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,1585000000,7963000000,KRW
+2016,SK하이닉스,현금흐름표,무형자산의 취득,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,530375000000,623743000000,KRW
+2016,SK하이닉스,현금흐름표,매각예정자산의 처분,-표준계정코드 미사용-,,22630000000,KRW
+2016,SK하이닉스,현금흐름표,정부보조금수령,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,133000000,406000000,KRW
+2016,SK하이닉스,현금흐름표,사업결합으로 인한 현금유출,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,현금흐름표,종속기업 처분으로 인한 현금유출,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInAssociates,2293000000,9893000000,KRW
+2016,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs_CashFlowsFromUsedInFinancingActivities,116876000000,-1462257000000,KRW
+2016,SK하이닉스,현금흐름표,차입금의 차입,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,2080343000000,3933056000000,KRW
+2016,SK하이닉스,현금흐름표,차입금의 상환,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,1610466000000,4405023000000,KRW
+2016,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,,771889000000,KRW
+2016,SK하이닉스,현금흐름표,배당금의 지급,ifrs_DividendsPaidClassifiedAsFinancingActivities,353001000000,218401000000,KRW
+2016,SK하이닉스,현금흐름표,현금및현금성자산에 대한 환율변동효과,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,2720000000,7225000000,KRW
+2016,SK하이닉스,현금흐름표,현금및현금성자산의 순증가(감소),ifrs_IncreaseDecreaseInCashAndCashEquivalents,-561933000000,738958000000,KRW
+2016,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,1175719000000,436731000000,KRW
+2016,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,613786000000,1175719000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,14358988000000,10276904000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-1600000000,-41815000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-771913000000,-24000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,21387703000000,18036303000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,840000000,-150000000,KRW
+2016,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,21386863000000,18036453000000,KRW
+2016,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,2953774000000,4322356000000,KRW
+2016,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,2953774000000,4322356000000,KRW
+2016,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,2960483000000,4323595000000,KRW
+2016,SK하이닉스,자본변동표,당기순이익(손실),ifrs_ProfitLoss,6709000000,1239000000,KRW
+2016,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,106822000000,-21871000000,KRW
+2016,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,106822000000,-21871000000,KRW
+2016,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,106822000000,-21871000000,KRW
+2016,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,4088000000,6487000000,KRW
+2016,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,4088000000,6487000000,KRW
+2016,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,4088000000,6487000000,KRW
+2016,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,-82066000000,33479000000,KRW
+2016,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,-85000000,-249000000,KRW
+2016,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,-81981000000,33728000000,KRW
+2016,SK하이닉스,자본변동표,해외사업환산손익,-표준계정코드 미사용-,-81981000000,33728000000,KRW
+2016,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,3060596000000,4300485000000,KRW
+2016,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,-77893000000,40215000000,KRW
+2016,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,2982703000000,4340700000000,KRW
+2016,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,2989327000000,4341690000000,KRW
+2016,SK하이닉스,자본변동표,총포괄손익,dart_ComprehensiveIncomeForStatementOfChangesInEquity,6624000000,990000000,KRW
+2016,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-353001000000,-218401000000,KRW
+2016,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-353001000000,-218401000000,KRW
+2016,SK하이닉스,자본변동표,배당금의 지급,-표준계정코드 미사용-,-353001000000,-218401000000,KRW
+2016,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,종속기업 취득을 위한 신주교부,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,전환사채의 전환,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,,-771889000000,KRW
+2016,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,,-771889000000,KRW
+2016,SK하이닉스,자본변동표,자기주식 취득,-표준계정코드 미사용-,,-771889000000,KRW
+2016,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,390000000,,KRW
+2016,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,390000000,,KRW
+2016,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,-889000000,,KRW
+2016,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,-499000000,,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-353500000000,-990290000000,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,,-771889000000,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,390000000,,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-889000000,,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,,,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-353001000000,-218401000000,KRW
+2016,SK하이닉스,자본변동표,자본에직접반영된 소유주와의 거래 소계,-표준계정코드 미사용-,-352611000000,-990290000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-79103000000,-1600000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,17066583000000,14358988000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,3657652000000,3657652000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,4143736000000,4143736000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-771913000000,-771913000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,24016955000000,21386863000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,6575000000,840000000,KRW
+2016,SK하이닉스,자본변동표,기말자본,ifrs_Equity,24023530000000,21387703000000,KRW
+2017,SK하이닉스,재무상태표,유동자산,ifrs_CurrentAssets,17310444000000,9838982000000,KRW
+2017,SK하이닉스,재무상태표,현금및현금성자산,ifrs_CashAndCashEquivalents,2949991000000,613786000000,KRW
+2017,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,5604663000000,3521893000000,KRW
+2017,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,5552795000000,3251652000000,KRW
+2017,SK하이닉스,재무상태표,기타수취채권,ifrs_TradeAndOtherCurrentReceivables,37613000000,25611000000,KRW
+2017,SK하이닉스,재무상태표,재고자산,ifrs_Inventories,2640439000000,2026198000000,KRW
+2017,SK하이닉스,재무상태표,당기법인세자산,ifrs_CurrentTaxAssets,1305000000,489000000,KRW
+2017,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,523638000000,399353000000,KRW
+2017,SK하이닉스,재무상태표,비유동자산,ifrs_NoncurrentAssets,28108020000000,22377044000000,KRW
+2017,SK하이닉스,재무상태표,"종속기업, 관계기업 및 공동기업투자",ifrs_InvestmentsInSubsidiariesJointVenturesAndAssociates,359864000000,131016000000,KRW
+2017,SK하이닉스,재무상태표,매도가능금융자산,dart_NonCurrentAvailableForSaleFinancialAssets,43226000000,147779000000,KRW
+2017,SK하이닉스,재무상태표,기타수취채권,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,42410000000,39490000000,KRW
+2017,SK하이닉스,재무상태표,기타금융자산,ifrs_OtherNoncurrentFinancialAssets,273000000,423000000,KRW
+2017,SK하이닉스,재무상태표,유형자산,ifrs_PropertyPlantAndEquipment,24062601000000,18777402000000,KRW
+2017,SK하이닉스,재무상태표,무형자산,ifrs_IntangibleAssetsOtherThanGoodwill,2247290000000,1915591000000,KRW
+2017,SK하이닉스,재무상태표,투자부동산,ifrs_InvestmentProperty,2468000000,2573000000,KRW
+2017,SK하이닉스,재무상태표,이연법인세자산,ifrs_DeferredTaxAssets,599783000000,792368000000,KRW
+2017,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,750105000000,570402000000,KRW
+2017,SK하이닉스,재무상태표,자산총계,ifrs_Assets,45418464000000,32216026000000,KRW
+2017,SK하이닉스,재무상태표,유동부채,ifrs_CurrentLiabilities,8116133000000,4160849000000,KRW
+2017,SK하이닉스,재무상태표,매입채무,ifrs_TradeAndOtherCurrentPayables,758578000000,696144000000,KRW
+2017,SK하이닉스,재무상태표,단기미지급금,dart_ShortTermOtherPayables,2724547000000,1606417000000,KRW
+2017,SK하이닉스,재무상태표,기타지급채무,dart_ShortTermAccruedExpenses,1340225000000,685154000000,KRW
+2017,SK하이닉스,재무상태표,차입금,ifrs_ShorttermBorrowings,773780000000,704860000000,KRW
+2017,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherCurrentFinancialLiabilities,,288000000,KRW
+2017,SK하이닉스,재무상태표,충당부채,ifrs_CurrentProvisions,81351000000,42822000000,KRW
+2017,SK하이닉스,재무상태표,당기법인세부채,ifrs_CurrentTaxLiabilities,2385876000000,374666000000,KRW
+2017,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,51776000000,50498000000,KRW
+2017,SK하이닉스,재무상태표,비유동부채,ifrs_NoncurrentLiabilities,3481412000000,4031647000000,KRW
+2017,SK하이닉스,재무상태표,기타지급채무,ifrs_OtherNoncurrentFinancialLiabilities,3412000000,27426000000,KRW
+2017,SK하이닉스,재무상태표,장기차입금,dart_LongTermBorrowingsGross,3397490000000,3631118000000,KRW
+2017,SK하이닉스,재무상태표,확정급여부채,dart_PostemploymentBenefitObligations,6096000000,306488000000,KRW
+2017,SK하이닉스,재무상태표,이연법인세부채,ifrs_DeferredTaxLiabilities,5554000000,4732000000,KRW
+2017,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,68860000000,61883000000,KRW
+2017,SK하이닉스,재무상태표,부채총계,ifrs_Liabilities,11597545000000,8192496000000,KRW
+2017,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs_EquityAttributableToOwnersOfParent,33815280000000,24016955000000,KRW
+2017,SK하이닉스,재무상태표,자본금,ifrs_IssuedCapital,3657652000000,3657652000000,KRW
+2017,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4143736000000,4143736000000,KRW
+2017,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-771100000000,-771913000000,KRW
+2017,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-502264000000,-79103000000,KRW
+2017,SK하이닉스,재무상태표,이익잉여금,ifrs_RetainedEarnings,27287256000000,17066583000000,KRW
+2017,SK하이닉스,재무상태표,비지배지분,ifrs_NoncontrollingInterests,5639000000,6575000000,KRW
+2017,SK하이닉스,재무상태표,자본총계,ifrs_Equity,33820919000000,24023530000000,KRW
+2017,SK하이닉스,재무상태표,자본과부채총계,ifrs_EquityAndLiabilities,45418464000000,32216026000000,KRW
+2017,SK하이닉스,포괄손익계산서,매출액,ifrs_Revenue,30109434000000,17197975000000,KRW
+2017,SK하이닉스,포괄손익계산서,매출원가,ifrs_CostOfSales,12701843000000,10787139000000,KRW
+2017,SK하이닉스,포괄손익계산서,매출총이익,ifrs_GrossProfit,17407591000000,6410836000000,KRW
+2017,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,3686265000000,3134090000000,KRW
+2017,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,13721326000000,3276746000000,KRW
+2017,SK하이닉스,포괄손익계산서,금융수익,ifrs_FinanceIncome,996468000000,814892000000,KRW
+2017,SK하이닉스,포괄손익계산서,금융비용,ifrs_FinanceCosts,1249617000000,846328000000,KRW
+2017,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,12367000000,22752000000,KRW
+2017,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,77882000000,52371000000,KRW
+2017,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,118860000000,103979000000,KRW
+2017,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs_ProfitLossBeforeTax,13439566000000,3216454000000,KRW
+2017,SK하이닉스,포괄손익계산서,법인세비용,ifrs_IncomeTaxExpenseContinuingOperations,2797347000000,255971000000,KRW
+2017,SK하이닉스,포괄손익계산서,당기순이익,ifrs_ProfitLoss,10642219000000,2960483000000,KRW
+2017,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs_OtherComprehensiveIncome,-422042000000,28844000000,KRW
+2017,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,2762000000,106822000000,KRW
+2017,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,-387683000000,-82066000000,KRW
+2017,SK하이닉스,포괄손익계산서,매도가능금융자산평가손익,ifrs_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,-10735000000,,KRW
+2017,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-26386000000,4088000000,KRW
+2017,SK하이닉스,포괄손익계산서,총포괄이익,ifrs_ComprehensiveIncome,10220177000000,2989327000000,KRW
+2017,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs_ProfitLossAttributableToOwnersOfParent,10641512000000,2953774000000,KRW
+2017,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ProfitLossAttributableToNoncontrollingInterests,707000000,6709000000,KRW
+2017,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,10221113000000,2982703000000,KRW
+2017,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,-936000000,6624000000,KRW
+2017,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs_BasicEarningsLossPerShare,15073,4184,KRW
+2017,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs_DilutedEarningsLossPerShare,15072,4184,KRW
+2017,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs_CashFlowsFromUsedInOperatingActivities,14690614000000,5548922000000,KRW
+2017,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,dart_ProfitLossForStatementOfCashFlows,15373261000000,6486781000000,KRW
+2017,SK하이닉스,현금흐름표,이자의 수취,ifrs_InterestReceivedClassifiedAsOperatingActivities,41680000000,42895000000,KRW
+2017,SK하이닉스,현금흐름표,이자의 지급,ifrs_InterestPaidClassifiedAsOperatingActivities,120332000000,125818000000,KRW
+2017,SK하이닉스,현금흐름표,배당금의 수취,ifrs_DividendsReceivedClassifiedAsOperatingActivities,14841000000,20744000000,KRW
+2017,SK하이닉스,현금흐름표,법인세의 납부,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,618836000000,875680000000,KRW
+2017,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs_CashFlowsFromUsedInInvestingActivities,-11919162000000,-6230451000000,KRW
+2017,SK하이닉스,현금흐름표,단기금융상품의 순증감,dart_PurchaseOfShortTermFinancialInstruments,2119004000000,-109803000000,KRW
+2017,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,308000000,5000000,KRW
+2017,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,167000000,2000000,KRW
+2017,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,18437000000,15422000000,KRW
+2017,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,22009000000,13613000000,KRW
+2017,SK하이닉스,현금흐름표,매도가능금융자산의 처분,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,3431000000,2651000000,KRW
+2017,SK하이닉스,현금흐름표,매도가능금융자산의 취득,dart_PurchaseOfAvailableForSaleFinancialAssets,26204000000,19085000000,KRW
+2017,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유입,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,902000000,1077000000,KRW
+2017,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유출,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,1201000000,1525000000,KRW
+2017,SK하이닉스,현금흐름표,유형자산의 처분,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,244897000000,162120000000,KRW
+2017,SK하이닉스,현금흐름표,유형자산의 취득,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,9128303000000,5956354000000,KRW
+2017,SK하이닉스,현금흐름표,무형자산의 처분,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,3249000000,1585000000,KRW
+2017,SK하이닉스,현금흐름표,무형자산의 취득,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,784911000000,530375000000,KRW
+2017,SK하이닉스,현금흐름표,매각예정자산의 처분,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,,,KRW
+2017,SK하이닉스,현금흐름표,정부보조금의 수취,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,5900000000,133000000,KRW
+2017,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInAssociates,114487000000,2293000000,KRW
+2017,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs_CashFlowsFromUsedInFinancingActivities,-351906000000,116876000000,KRW
+2017,SK하이닉스,현금흐름표,차입금의 차입,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,782330000000,2080343000000,KRW
+2017,SK하이닉스,현금흐름표,차입금의 상환,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,710635000000,1610466000000,KRW
+2017,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,,,KRW
+2017,SK하이닉스,현금흐름표,배당금의 지급,ifrs_DividendsPaidClassifiedAsFinancingActivities,423601000000,353001000000,KRW
+2017,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-83341000000,2720000000,KRW
+2017,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs_IncreaseDecreaseInCashAndCashEquivalents,2336205000000,-561933000000,KRW
+2017,SK하이닉스,현금흐름표,기초 현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,613786000000,1175719000000,KRW
+2017,SK하이닉스,현금흐름표,기말 현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,2949991000000,613786000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,6575000000,840000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,17066583000000,14358988000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-79103000000,-1600000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,24023530000000,21387703000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,24016955000000,21386863000000,KRW
+2017,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-771913000000,-771913000000,KRW
+2017,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,10641512000000,2953774000000,KRW
+2017,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,10641512000000,2953774000000,KRW
+2017,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,707000000,6709000000,KRW
+2017,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,10642219000000,2960483000000,KRW
+2017,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,2762000000,106822000000,KRW
+2017,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,2762000000,106822000000,KRW
+2017,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,2762000000,106822000000,KRW
+2017,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,-10735000000,,KRW
+2017,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,-10735000000,,KRW
+2017,SK하이닉스,자본변동표,매도가능금융자산평가손익,-표준계정코드 미사용-,-10735000000,,KRW
+2017,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,-26386000000,4088000000,KRW
+2017,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,-26386000000,4088000000,KRW
+2017,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,-26386000000,4088000000,KRW
+2017,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,-386040000000,-81981000000,KRW
+2017,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,-386040000000,-81981000000,KRW
+2017,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,-387683000000,-82066000000,KRW
+2017,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,-1643000000,-85000000,KRW
+2017,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,423601000000,353001000000,KRW
+2017,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,423601000000,353001000000,KRW
+2017,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,423601000000,353001000000,KRW
+2017,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,,,KRW
+2017,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,,,KRW
+2017,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,,,KRW
+2017,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,813000000,,KRW
+2017,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,813000000,,KRW
+2017,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,813000000,,KRW
+2017,SK하이닉스,자본변동표,종속기업의 처분,dart_PurchaseDispostionOfAssociatesOrJointVenture,,-499000000,KRW
+2017,SK하이닉스,자본변동표,종속기업의 처분,dart_PurchaseDispostionOfAssociatesOrJointVenture,,-889000000,KRW
+2017,SK하이닉스,자본변동표,종속기업의 처분,dart_PurchaseDispostionOfAssociatesOrJointVenture,,390000000,KRW
+2017,SK하이닉스,자본변동표,종속기업의 처분,dart_PurchaseDispostionOfAssociatesOrJointVenture,,390000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,4143736000000,4143736000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,33815280000000,24016955000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,5639000000,6575000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,33820919000000,24023530000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,3657652000000,3657652000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,27287256000000,17066583000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-502264000000,-79103000000,KRW
+2017,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-771100000000,-771913000000,KRW
+2018,SK하이닉스,재무상태표,유동자산,ifrs_CurrentAssets,19894146000000,17310444000000,KRW
+2018,SK하이닉스,재무상태표,현금및현금성자산,ifrs_CashAndCashEquivalents,2349319000000,2949991000000,KRW
+2018,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,523579000000,4674862000000,KRW
+2018,SK하이닉스,재무상태표,단기투자자산,-표준계정코드 미사용-,5496452000000,929801000000,KRW
+2018,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,6319994000000,5552795000000,KRW
+2018,SK하이닉스,재무상태표,기타수취채권,ifrs_TradeAndOtherCurrentReceivables,18392000000,37613000000,KRW
+2018,SK하이닉스,재무상태표,재고자산,ifrs_Inventories,4422733000000,2640439000000,KRW
+2018,SK하이닉스,재무상태표,당기법인세자산,ifrs_CurrentTaxAssets,22252000000,1305000000,KRW
+2018,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,741425000000,523638000000,KRW
+2018,SK하이닉스,재무상태표,비유동자산,ifrs_NoncurrentAssets,43764189000000,28108020000000,KRW
+2018,SK하이닉스,재무상태표,"종속기업, 관계기업 및 공동기업투자",ifrs_InvestmentsInSubsidiariesJointVenturesAndAssociates,562194000000,359864000000,KRW
+2018,SK하이닉스,재무상태표,장기투자자산,dart_NonCurrentAvailableForSaleFinancialAssets,4325550000000,43226000000,KRW
+2018,SK하이닉스,재무상태표,기타수취채권,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,68514000000,42410000000,KRW
+2018,SK하이닉스,재무상태표,기타금융자산,ifrs_OtherNoncurrentFinancialAssets,310000000,273000000,KRW
+2018,SK하이닉스,재무상태표,유형자산,ifrs_PropertyPlantAndEquipment,34952617000000,24062601000000,KRW
+2018,SK하이닉스,재무상태표,무형자산,ifrs_IntangibleAssetsOtherThanGoodwill,2678770000000,2247290000000,KRW
+2018,SK하이닉스,재무상태표,투자부동산,ifrs_InvestmentProperty,1400000000,2468000000,KRW
+2018,SK하이닉스,재무상태표,이연법인세자산,ifrs_DeferredTaxAssets,544016000000,599783000000,KRW
+2018,SK하이닉스,재무상태표,종업원급여자산,-표준계정코드 미사용-,5164000000,13385000000,KRW
+2018,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,625654000000,736720000000,KRW
+2018,SK하이닉스,재무상태표,자산총계,ifrs_Assets,63658335000000,45418464000000,KRW
+2018,SK하이닉스,재무상태표,유동부채,ifrs_CurrentLiabilities,13031852000000,8116133000000,KRW
+2018,SK하이닉스,재무상태표,매입채무,ifrs_TradeAndOtherCurrentPayables,1096380000000,758578000000,KRW
+2018,SK하이닉스,재무상태표,단기미지급금,dart_ShortTermOtherPayables,3681933000000,2724547000000,KRW
+2018,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,1879520000000,1340225000000,KRW
+2018,SK하이닉스,재무상태표,차입금,ifrs_ShorttermBorrowings,1614303000000,773780000000,KRW
+2018,SK하이닉스,재무상태표,기타금융부채,ifrs_OtherCurrentFinancialLiabilities,,,KRW
+2018,SK하이닉스,재무상태표,충당부채,ifrs_CurrentProvisions,56208000000,81351000000,KRW
+2018,SK하이닉스,재무상태표,당기법인세부채,ifrs_CurrentTaxLiabilities,4555670000000,2385876000000,KRW
+2018,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,147838000000,51776000000,KRW
+2018,SK하이닉스,재무상태표,비유동부채,ifrs_NoncurrentLiabilities,3774152000000,3481412000000,KRW
+2018,SK하이닉스,재무상태표,기타지급채무,ifrs_OtherNoncurrentFinancialLiabilities,15231000000,3412000000,KRW
+2018,SK하이닉스,재무상태표,장기차입금,dart_LongTermBorrowingsGross,3667634000000,3397490000000,KRW
+2018,SK하이닉스,재무상태표,확정급여부채,dart_PostemploymentBenefitObligations,5387000000,6096000000,KRW
+2018,SK하이닉스,재무상태표,이연법인세부채,ifrs_DeferredTaxLiabilities,6597000000,5554000000,KRW
+2018,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,79303000000,68860000000,KRW
+2018,SK하이닉스,재무상태표,부채총계,ifrs_Liabilities,16806004000000,11597545000000,KRW
+2018,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs_EquityAttributableToOwnersOfParent,46845719000000,33815280000000,KRW
+2018,SK하이닉스,재무상태표,자본금,ifrs_IssuedCapital,3657652000000,3657652000000,KRW
+2018,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4143736000000,4143736000000,KRW
+2018,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2506451000000,-771100000000,KRW
+2018,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-482819000000,-502264000000,KRW
+2018,SK하이닉스,재무상태표,이익잉여금,ifrs_RetainedEarnings,42033601000000,27287256000000,KRW
+2018,SK하이닉스,재무상태표,비지배지분,ifrs_NoncontrollingInterests,6612000000,5639000000,KRW
+2018,SK하이닉스,재무상태표,자본총계,ifrs_Equity,46852331000000,33820919000000,KRW
+2018,SK하이닉스,재무상태표,자본과부채총계,ifrs_EquityAndLiabilities,63658335000000,45418464000000,KRW
+2018,SK하이닉스,포괄손익계산서,매출액,ifrs_Revenue,40445066000000,30109434000000,KRW
+2018,SK하이닉스,포괄손익계산서,매출원가,ifrs_CostOfSales,15180838000000,12701843000000,KRW
+2018,SK하이닉스,포괄손익계산서,매출총이익,ifrs_GrossProfit,25264228000000,17407591000000,KRW
+2018,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,4420478000000,3686265000000,KRW
+2018,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,20843750000000,13721326000000,KRW
+2018,SK하이닉스,포괄손익계산서,금융수익,ifrs_FinanceIncome,1691955000000,996468000000,KRW
+2018,SK하이닉스,포괄손익계산서,금융비용,ifrs_FinanceCosts,1142134000000,1249617000000,KRW
+2018,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,13007000000,12367000000,KRW
+2018,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,112810000000,77882000000,KRW
+2018,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,178358000000,118860000000,KRW
+2018,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs_ProfitLossBeforeTax,21341030000000,13439566000000,KRW
+2018,SK하이닉스,포괄손익계산서,법인세비용,ifrs_IncomeTaxExpenseContinuingOperations,5801046000000,2797347000000,KRW
+2018,SK하이닉스,포괄손익계산서,당기순이익,ifrs_ProfitLoss,15539984000000,10642219000000,KRW
+2018,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs_OtherComprehensiveIncome,-67219000000,-422042000000,KRW
+2018,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-77029000000,2762000000,KRW
+2018,SK하이닉스,포괄손익계산서,해외사업장환산외환차이(세후기타포괄손익),ifrs_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,7534000000,-387683000000,KRW
+2018,SK하이닉스,포괄손익계산서,장기투자자산평가손익,ifrs_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,,-10735000000,KRW
+2018,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,2276000000,-26386000000,KRW
+2018,SK하이닉스,포괄손익계산서,총포괄이익,ifrs_ComprehensiveIncome,15472765000000,10220177000000,KRW
+2018,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs_ProfitLossAttributableToOwnersOfParent,15540111000000,10641512000000,KRW
+2018,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ProfitLossAttributableToNoncontrollingInterests,-127000000,707000000,KRW
+2018,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,15471792000000,10221113000000,KRW
+2018,SK하이닉스,포괄손익계산서,비지배지분,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,973000000,-936000000,KRW
+2018,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs_BasicEarningsLossPerShare,22255,15073,KRW
+2018,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs_DilutedEarningsLossPerShare,22252,15072,KRW
+2018,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs_CashFlowsFromUsedInOperatingActivities,22227199000000,14690614000000,KRW
+2018,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,-표준계정코드 미사용-,25825017000000,15373261000000,KRW
+2018,SK하이닉스,현금흐름표,이자의 수취,ifrs_InterestReceivedClassifiedAsOperatingActivities,81323000000,41680000000,KRW
+2018,SK하이닉스,현금흐름표,이자의 지급,ifrs_InterestPaidClassifiedAsOperatingActivities,126029000000,120332000000,KRW
+2018,SK하이닉스,현금흐름표,배당금의 수취,ifrs_DividendsReceivedClassifiedAsOperatingActivities,15258000000,14841000000,KRW
+2018,SK하이닉스,현금흐름표,법인세의 납부,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,3568370000000,618836000000,KRW
+2018,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs_CashFlowsFromUsedInInvestingActivities,-21428749000000,-11919162000000,KRW
+2018,SK하이닉스,현금흐름표,단기금융상품의 순증감,dart_PurchaseOfShortTermFinancialInstruments,-4174667000000,2776527000000,KRW
+2018,SK하이닉스,현금흐름표,단기투자자산의 순증감,-표준계정코드 미사용-,4519395000000,-657523000000,KRW
+2018,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,116000000,308000000,KRW
+2018,SK하이닉스,현금흐름표,기타금융자산의 취득,dart_PurchaseOfOtherFinancialAssets,100000000,167000000,KRW
+2018,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,21824000000,18437000000,KRW
+2018,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,48424000000,22009000000,KRW
+2018,SK하이닉스,현금흐름표,장기투자자산의 처분,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,7118000000,3431000000,KRW
+2018,SK하이닉스,현금흐름표,장기투자자산의 취득,dart_PurchaseOfAvailableForSaleFinancialAssets,4012799000000,26204000000,KRW
+2018,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유입,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,,902000000,KRW
+2018,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유출,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,,1201000000,KRW
+2018,SK하이닉스,현금흐름표,유형자산의 처분,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,131754000000,244897000000,KRW
+2018,SK하이닉스,현금흐름표,유형자산의 취득,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,16036146000000,9128303000000,KRW
+2018,SK하이닉스,현금흐름표,무형자산의 처분,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,2532000000,3249000000,KRW
+2018,SK하이닉스,현금흐름표,무형자산의 취득,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,933139000000,784911000000,KRW
+2018,SK하이닉스,현금흐름표,정부보조금의 수취,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,17081000000,5900000000,KRW
+2018,SK하이닉스,현금흐름표,관계기업투자의 취득,-표준계정코드 미사용-,-200508000000,-114487000000,KRW
+2018,SK하이닉스,현금흐름표,종속기업의 취득,-표준계정코드 미사용-,-33330000000,,KRW
+2018,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs_CashFlowsFromUsedInFinancingActivities,-1395317000000,-351906000000,KRW
+2018,SK하이닉스,현금흐름표,차입금의 차입,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,3125721000000,782330000000,KRW
+2018,SK하이닉스,현금흐름표,차입금의 상환,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,2078522000000,710635000000,KRW
+2018,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,1736514000000,,KRW
+2018,SK하이닉스,현금흐름표,배당금의 지급,ifrs_DividendsPaidClassifiedAsFinancingActivities,706002000000,423601000000,KRW
+2018,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-3805000000,-83341000000,KRW
+2018,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs_IncreaseDecreaseInCashAndCashEquivalents,-600672000000,2336205000000,KRW
+2018,SK하이닉스,현금흐름표,기초 현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,2949991000000,613786000000,KRW
+2018,SK하이닉스,현금흐름표,기말 현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,2349319000000,2949991000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,5639000000,6575000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,27276521000000,17066583000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-491529000000,-79103000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,33820919000000,24023530000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,33815280000000,24016955000000,KRW
+2018,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-771100000000,-771913000000,KRW
+2018,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,15540111000000,10641512000000,KRW
+2018,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,15540111000000,10641512000000,KRW
+2018,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,-127000000,707000000,KRW
+2018,SK하이닉스,자본변동표,당기순이익,ifrs_ProfitLoss,15539984000000,10642219000000,KRW
+2018,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,-77029000000,2762000000,KRW
+2018,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,-77029000000,2762000000,KRW
+2018,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,-77029000000,2762000000,KRW
+2018,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,-10735000000,KRW
+2018,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,-10735000000,KRW
+2018,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,-10735000000,KRW
+2018,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,2276000000,-26386000000,KRW
+2018,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,2276000000,-26386000000,KRW
+2018,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,2276000000,-26386000000,KRW
+2018,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,6434000000,-386040000000,KRW
+2018,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,6434000000,-386040000000,KRW
+2018,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,7534000000,-387683000000,KRW
+2018,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,1100000000,-1643000000,KRW
+2018,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,706002000000,423601000000,KRW
+2018,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,706002000000,423601000000,KRW
+2018,SK하이닉스,자본변동표,배당금지급,ifrs_DividendsPaid,706002000000,423601000000,KRW
+2018,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,-1736514000000,,KRW
+2018,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,-1736514000000,,KRW
+2018,SK하이닉스,자본변동표,자기주식 거래로 인한 증감,dart_TreasuryShareTransactions,-1736514000000,,KRW
+2018,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1163000000,813000000,KRW
+2018,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1163000000,813000000,KRW
+2018,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1163000000,813000000,KRW
+2018,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,,,KRW
+2018,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,,,KRW
+2018,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,,,KRW
+2018,SK하이닉스,자본변동표,종속기업의 처분,-표준계정코드 미사용-,,,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,42033601000000,27287256000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,3657652000000,3657652000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,4143736000000,4143736000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-2506451000000,-771100000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,-482819000000,-502264000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,6612000000,5639000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,46852331000000,33820919000000,KRW
+2018,SK하이닉스,자본변동표,기말자본,ifrs_Equity,46845719000000,33815280000000,KRW
+2018,SK하이닉스,자본변동표,기업회계기준서 제 1109호 최초적용에 따른 조정,-표준계정코드 미사용-,,10735000000,KRW
+2018,SK하이닉스,자본변동표,기업회계기준서 제 1109호 최초적용에 따른 조정,-표준계정코드 미사용-,,-10735000000,KRW
+2019,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,14457602000000,19894146000000,KRW
+2019,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,2306070000000,2349319000000,KRW
+2019,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,298350000000,523579000000,KRW
+2019,SK하이닉스,재무상태표,단기투자자산,-표준계정코드 미사용-,1390293000000,5496452000000,KRW
+2019,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,4261674000000,6319994000000,KRW
+2019,SK하이닉스,재무상태표,기타수취채권,ifrs-full_TradeAndOtherCurrentReceivables,23508000000,18392000000,KRW
+2019,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,5295835000000,4422733000000,KRW
+2019,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,199805000000,22252000000,KRW
+2019,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,682037000000,741425000000,KRW
+2019,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,30000000,,KRW
+2019,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,50331892000000,43764189000000,KRW
+2019,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,768767000000,562194000000,KRW
+2019,SK하이닉스,재무상태표,장기매출채권,dart_LongTermTradeReceivablesGross,44775000000,,KRW
+2019,SK하이닉스,재무상태표,장기투자자산,dart_NonCurrentAvailableForSaleFinancialAssets,4381812000000,4325550000000,KRW
+2019,SK하이닉스,재무상태표,기타수취채권,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,109079000000,68514000000,KRW
+2019,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherNoncurrentFinancialAssets,901000000,310000000,KRW
+2019,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,39949940000000,34952617000000,KRW
+2019,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,1250576000000,,KRW
+2019,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsOtherThanGoodwill,2571049000000,2678770000000,KRW
+2019,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,258000000,1400000000,KRW
+2019,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,670866000000,544016000000,KRW
+2019,SK하이닉스,재무상태표,종업원급여자산,-표준계정코드 미사용-,3406000000,5164000000,KRW
+2019,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,580463000000,625654000000,KRW
+2019,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,64789494000000,63658335000000,KRW
+2019,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,7874033000000,13031852000000,KRW
+2019,SK하이닉스,재무상태표,매입채무,ifrs-full_TradeAndOtherCurrentPayables,1042542000000,1096380000000,KRW
+2019,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,2367673000000,3681933000000,KRW
+2019,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,1257895000000,1879520000000,KRW
+2019,SK하이닉스,재무상태표,차입금,ifrs-full_ShorttermBorrowings,2737770000000,1614303000000,KRW
+2019,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,10701000000,56208000000,KRW
+2019,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,89217000000,4555670000000,KRW
+2019,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,205238000000,,KRW
+2019,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,162997000000,147838000000,KRW
+2019,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,8972266000000,3774152000000,KRW
+2019,SK하이닉스,재무상태표,기타지급채무,ifrs-full_OtherNoncurrentFinancialLiabilities,18266000000,15231000000,KRW
+2019,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,7785736000000,3667634000000,KRW
+2019,SK하이닉스,재무상태표,확정급여부채,dart_PostemploymentBenefitObligations,53624000000,5387000000,KRW
+2019,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,15743000000,6597000000,KRW
+2019,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,995592000000,,KRW
+2019,SK하이닉스,재무상태표,기타금융부채,-표준계정코드 미사용-,15532000000,,KRW
+2019,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,87773000000,79303000000,KRW
+2019,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,16846299000000,16806004000000,KRW
+2019,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,47928415000000,46845719000000,KRW
+2019,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2019,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4143736000000,4143736000000,KRW
+2019,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2504713000000,-2506451000000,KRW
+2019,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-298935000000,-482819000000,KRW
+2019,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,42930675000000,42033601000000,KRW
+2019,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,14780000000,6612000000,KRW
+2019,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,47943195000000,46852331000000,KRW
+2019,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,64789494000000,63658335000000,KRW
+2019,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,26990733000000,40445066000000,KRW
+2019,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,18825275000000,15180838000000,KRW
+2019,SK하이닉스,포괄손익계산서,매출총이익,ifrs-full_GrossProfit,8165458000000,25264228000000,KRW
+2019,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,5452740000000,4420478000000,KRW
+2019,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,2712718000000,20843750000000,KRW
+2019,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,1247640000000,1691955000000,KRW
+2019,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,1514869000000,1142134000000,KRW
+2019,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,22633000000,13007000000,KRW
+2019,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,88179000000,112810000000,KRW
+2019,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,113575000000,178358000000,KRW
+2019,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs-full_ProfitLossBeforeTax,2442726000000,21341030000000,KRW
+2019,SK하이닉스,포괄손익계산서,법인세비용,ifrs-full_IncomeTaxExpenseContinuingOperations,426335000000,5801046000000,KRW
+2019,SK하이닉스,포괄손익계산서,당기순이익,ifrs-full_ProfitLoss,2016391000000,15539984000000,KRW
+2019,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,94023000000,-67219000000,KRW
+2019,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-90211000000,-77029000000,KRW
+2019,SK하이닉스,포괄손익계산서,해외사업장환산외환차이(세후기타포괄손익),ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,150037000000,7534000000,KRW
+2019,SK하이닉스,포괄손익계산서,파생금융상품평가손익,-표준계정코드 미사용-,12753000000,,KRW
+2019,SK하이닉스,포괄손익계산서,장기투자자산평가손익,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,21444000000,2276000000,KRW
+2019,SK하이닉스,포괄손익계산서,총포괄손익,ifrs-full_ComprehensiveIncome,2110414000000,15472765000000,KRW
+2019,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,2013288000000,15540111000000,KRW
+2019,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,3103000000,-127000000,KRW
+2019,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,2106961000000,15471792000000,KRW
+2019,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,3453000000,973000000,KRW
+2019,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs-full_BasicEarningsLossPerShare,2943,22255,KRW
+2019,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs-full_DilutedEarningsLossPerShare,2943,22252,KRW
+2019,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,6483188000000,22227199000000,KRW
+2019,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,-표준계정코드 미사용-,11822354000000,25825017000000,KRW
+2019,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,30543000000,81323000000,KRW
+2019,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,231382000000,126029000000,KRW
+2019,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,14891000000,15258000000,KRW
+2019,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,5153218000000,3568370000000,KRW
+2019,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-10450936000000,-21428749000000,KRW
+2019,SK하이닉스,현금흐름표,단기금융상품의 순증감,dart_PurchaseOfShortTermFinancialInstruments,-225447000000,-4174667000000,KRW
+2019,SK하이닉스,현금흐름표,단기투자자산의 순증감,-표준계정코드 미사용-,-4164793000000,4519395000000,KRW
+2019,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,,116000000,KRW
+2019,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,627000000,100000000,KRW
+2019,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,13057000000,21824000000,KRW
+2019,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,57482000000,48424000000,KRW
+2019,SK하이닉스,현금흐름표,장기투자자산의 처분,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,4316000000,7118000000,KRW
+2019,SK하이닉스,현금흐름표,장기투자자산의 취득,dart_PurchaseOfAvailableForSaleFinancialAssets,81447000000,4012799000000,KRW
+2019,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유입,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,현금흐름표,파생상품거래로 인한 현금유출,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,53840000000,131754000000,KRW
+2019,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,13920244000000,16036146000000,KRW
+2019,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,183000000,2532000000,KRW
+2019,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,673356000000,933139000000,KRW
+2019,SK하이닉스,현금흐름표,정부보조금의 수취,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,,17081000000,KRW
+2019,SK하이닉스,현금흐름표,관계기업투자의 취득,-표준계정코드 미사용-,-176954000000,-200508000000,KRW
+2019,SK하이닉스,현금흐름표,종속기업투자의 취득,-표준계정코드 미사용-,,-33330000000,KRW
+2019,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,-2462000000,,KRW
+2019,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,3903216000000,-1395317000000,KRW
+2019,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,9833882000000,3125721000000,KRW
+2019,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,4585425000000,2078522000000,KRW
+2019,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,323953000000,,KRW
+2019,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,,1736514000000,KRW
+2019,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,1026003000000,706002000000,KRW
+2019,SK하이닉스,현금흐름표,비지배지분의 증가,-표준계정코드 미사용-,4715000000,,KRW
+2019,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,21283000000,-3805000000,KRW
+2019,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-43249000000,-600672000000,KRW
+2019,SK하이닉스,현금흐름표,기초 현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,2349319000000,2949991000000,KRW
+2019,SK하이닉스,현금흐름표,기말 현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,2306070000000,2349319000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,42033601000000,27276521000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-482819000000,-491529000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,46852331000000,33820919000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,6612000000,5639000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,46845719000000,33815280000000,KRW
+2019,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2506451000000,-771100000000,KRW
+2019,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2013288000000,15540111000000,KRW
+2019,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2016391000000,15539984000000,KRW
+2019,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,3103000000,-127000000,KRW
+2019,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2013288000000,15540111000000,KRW
+2019,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,-90211000000,-77029000000,KRW
+2019,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,-90211000000,-77029000000,KRW
+2019,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,-90211000000,-77029000000,KRW
+2019,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,자본변동표,장기투자자산평가손익,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,21444000000,2276000000,KRW
+2019,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,21444000000,2276000000,KRW
+2019,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,21444000000,2276000000,KRW
+2019,SK하이닉스,자본변동표,파생상품평가손익,-표준계정코드 미사용-,12753000000,,KRW
+2019,SK하이닉스,자본변동표,파생상품평가손익,-표준계정코드 미사용-,12753000000,,KRW
+2019,SK하이닉스,자본변동표,파생상품평가손익,-표준계정코드 미사용-,12753000000,,KRW
+2019,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,149687000000,6434000000,KRW
+2019,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,149687000000,6434000000,KRW
+2019,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,150037000000,7534000000,KRW
+2019,SK하이닉스,자본변동표,해외사업장환산외환차이,dart_ChangesInForeignExchangeRates,350000000,1100000000,KRW
+2019,SK하이닉스,자본변동표,자기주식 취득,dart_TreasuryShareTransactions,,-1736514000000,KRW
+2019,SK하이닉스,자본변동표,자기주식 취득,dart_TreasuryShareTransactions,,-1736514000000,KRW
+2019,SK하이닉스,자본변동표,자기주식 취득,dart_TreasuryShareTransactions,,-1736514000000,KRW
+2019,SK하이닉스,자본변동표,비지배지분의 증가,-표준계정코드 미사용-,4715000000,,KRW
+2019,SK하이닉스,자본변동표,비지배지분의 증가,-표준계정코드 미사용-,4715000000,,KRW
+2019,SK하이닉스,자본변동표,배당금지급,ifrs-full_DividendsPaid,1026003000000,706002000000,KRW
+2019,SK하이닉스,자본변동표,배당금지급,ifrs-full_DividendsPaid,1026003000000,706002000000,KRW
+2019,SK하이닉스,자본변동표,배당금지급,ifrs-full_DividendsPaid,1026003000000,706002000000,KRW
+2019,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1738000000,1163000000,KRW
+2019,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1738000000,1163000000,KRW
+2019,SK하이닉스,자본변동표,주식선택권 부여,dart_ShareBasedPaymentTransactions,1738000000,1163000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,42930675000000,42033601000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,4143736000000,4143736000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,14780000000,6612000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,47928415000000,46845719000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,47943195000000,46852331000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-2504713000000,-2506451000000,KRW
+2019,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-298935000000,-482819000000,KRW
+2019,SK하이닉스,자본변동표,기업회계기준서 제 1109호 최초적용에 따른 조정,-표준계정코드 미사용-,,,KRW
+2019,SK하이닉스,자본변동표,기업회계기준서 제 1109호 최초적용에 따른 조정,-표준계정코드 미사용-,,,KRW
+2020,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,16570953000000,14457602000000,KRW
+2020,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,2975989000000,2306070000000,KRW
+2020,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,436708000000,298350000000,KRW
+2020,SK하이닉스,재무상태표,단기투자자산,-표준계정코드 미사용-,1535518000000,1390293000000,KRW
+2020,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,4931322000000,4261674000000,KRW
+2020,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,69194000000,23508000000,KRW
+2020,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,6136318000000,5295835000000,KRW
+2020,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,202000000,199805000000,KRW
+2020,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,485672000000,682037000000,KRW
+2020,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,30000000,30000000,KRW
+2020,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,54602900000000,50790748000000,KRW
+2020,SK하이닉스,재무상태표,"종속기업, 관계기업 및 공동기업투자",ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,1166244000000,768767000000,KRW
+2020,SK하이닉스,재무상태표,장기매출채권,dart_LongTermTradeReceivablesGross,,44775000000,KRW
+2020,SK하이닉스,재무상태표,장기투자자산,-표준계정코드 미사용-,6139627000000,4381812000000,KRW
+2020,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,75589000000,109079000000,KRW
+2020,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,353000000,901000000,KRW
+2020,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,41230562000000,39949940000000,KRW
+2020,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,1707645000000,1706658000000,KRW
+2020,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsOtherThanGoodwill,3400278000000,2571049000000,KRW
+2020,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,209417000000,258000000,KRW
+2020,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,556194000000,673640000000,KRW
+2020,SK하이닉스,재무상태표,종업원급여자산,-표준계정코드 미사용-,61962000000,3406000000,KRW
+2020,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,55029000000,580463000000,KRW
+2020,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,71173853000000,65248350000000,KRW
+2020,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,9072360000000,7961966000000,KRW
+2020,SK하이닉스,재무상태표,매입채무,dart_ShortTermTradePayables,1046159000000,1042542000000,KRW
+2020,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,2348909000000,2367673000000,KRW
+2020,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,1367193000000,1257895000000,KRW
+2020,SK하이닉스,재무상태표,차입금,ifrs-full_ShorttermBorrowings,3114250000000,2737770000000,KRW
+2020,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,13797000000,10701000000,KRW
+2020,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,636649000000,89217000000,KRW
+2020,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,347464000000,293171000000,KRW
+2020,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,197395000000,162997000000,KRW
+2020,SK하이닉스,재무상태표,기타금융부채,-표준계정코드 미사용-,544000000,,KRW
+2020,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,10192396000000,9350502000000,KRW
+2020,SK하이닉스,재무상태표,장기미지급금,dart_LongTermOtherPayablesGross,272396000000,,KRW
+2020,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,29923000000,18266000000,KRW
+2020,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,8137398000000,7785736000000,KRW
+2020,SK하이닉스,재무상태표,확정급여부채,dart_PresentValueOfDefinedBenefitObligation,2739000000,53624000000,KRW
+2020,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,266640000000,15743000000,KRW
+2020,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,1296252000000,1373828000000,KRW
+2020,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,88121000000,15532000000,KRW
+2020,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,98927000000,87773000000,KRW
+2020,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,19264756000000,17312468000000,KRW
+2020,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,51888541000000,47921102000000,KRW
+2020,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2020,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4143736000000,4143736000000,KRW
+2020,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2503122000000,-2504713000000,KRW
+2020,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,-405453000000,-298935000000,KRW
+2020,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,46995728000000,42923362000000,KRW
+2020,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,20556000000,14780000000,KRW
+2020,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,51909097000000,47935882000000,KRW
+2020,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,71173853000000,65248350000000,KRW
+2020,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,31900418000000,26990733000000,KRW
+2020,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,21089789000000,18818814000000,KRW
+2020,SK하이닉스,포괄손익계산서,매출총이익,ifrs-full_GrossProfit,10810629000000,8171919000000,KRW
+2020,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,5798005000000,5452740000000,KRW
+2020,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,5012624000000,2719179000000,KRW
+2020,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,3327905000000,1247640000000,KRW
+2020,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,1980411000000,1531417000000,KRW
+2020,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,-36279000000,22633000000,KRW
+2020,SK하이닉스,포괄손익계산서,기타영업외수익,-표준계정코드 미사용-,84773000000,88179000000,KRW
+2020,SK하이닉스,포괄손익계산서,기타영업외비용,-표준계정코드 미사용-,171575000000,113575000000,KRW
+2020,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs-full_ProfitLossBeforeTax,6237037000000,2432639000000,KRW
+2020,SK하이닉스,포괄손익계산서,법인세비용,ifrs-full_IncomeTaxExpenseContinuingOperations,1478123000000,423561000000,KRW
+2020,SK하이닉스,포괄손익계산서,당기순이익,ifrs-full_ProfitLoss,4758914000000,2009078000000,KRW
+2020,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,-107378000000,94023000000,KRW
+2020,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,1266000000,-90211000000,KRW
+2020,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,-47407000000,150037000000,KRW
+2020,SK하이닉스,포괄손익계산서,파생상품평가손익,-표준계정코드 미사용-,-417000000,12753000000,KRW
+2020,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-60820000000,21444000000,KRW
+2020,SK하이닉스,포괄손익계산서,총포괄손익,ifrs-full_ComprehensiveIncome,4651536000000,2103101000000,KRW
+2020,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,4755102000000,2005975000000,KRW
+2020,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,3812000000,3103000000,KRW
+2020,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,4649850000000,2099648000000,KRW
+2020,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,1686000000,3453000000,KRW
+2020,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs-full_BasicEarningsLossPerShare,6952,2933,KRW
+2020,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs-full_DilutedEarningsLossPerShare,6950,2932,KRW
+2020,SK하이닉스,현금흐름표,영업활동 현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,12314571000000,6549736000000,KRW
+2020,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,-표준계정코드 미사용-,12916771000000,11895834000000,KRW
+2020,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,40635000000,30543000000,KRW
+2020,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,288565000000,238314000000,KRW
+2020,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,16365000000,14891000000,KRW
+2020,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,370635000000,5153218000000,KRW
+2020,SK하이닉스,현금흐름표,투자활동 현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-11840393000000,-10450936000000,KRW
+2020,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,913591000000,1070784000000,KRW
+2020,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,1054401000000,845337000000,KRW
+2020,SK하이닉스,현금흐름표,단기투자자산의 순증감,-표준계정코드 미사용-,-115122000000,4164793000000,KRW
+2020,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,773000000,,KRW
+2020,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,205000000,627000000,KRW
+2020,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,36722000000,13057000000,KRW
+2020,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,238727000000,57482000000,KRW
+2020,SK하이닉스,현금흐름표,장기투자자산의 처분,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,708000000,4316000000,KRW
+2020,SK하이닉스,현금흐름표,장기투자자산의 취득,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,93846000000,81447000000,KRW
+2020,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,59089000000,53840000000,KRW
+2020,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,10068662000000,13920244000000,KRW
+2020,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,695000000,183000000,KRW
+2020,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,800729000000,673356000000,KRW
+2020,SK하이닉스,현금흐름표,영업양도로 인한 현금 유입,-표준계정코드 미사용-,2958000000,,KRW
+2020,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInAssociates,483237000000,176954000000,KRW
+2020,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,,-2462000000,KRW
+2020,SK하이닉스,현금흐름표,종속기업투자의 취득,dart_PurchaseOfInvestmentsInSubsidiaries,,,KRW
+2020,SK하이닉스,현금흐름표,정부보조금의 수취,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,,,KRW
+2020,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,252054000000,3836668000000,KRW
+2020,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,5173016000000,9833882000000,KRW
+2020,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,3921310000000,4585425000000,KRW
+2020,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,319740000000,390501000000,KRW
+2020,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,684002000000,1026003000000,KRW
+2020,SK하이닉스,현금흐름표,비지배지분의 증가,-표준계정코드 미사용-,4090000000,4715000000,KRW
+2020,SK하이닉스,현금흐름표,자기주식의 취득,dart_AcquisitionOfTreasuryShares,,,KRW
+2020,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-56313000000,21283000000,KRW
+2020,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,669919000000,-43249000000,KRW
+2020,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,2306070000000,2349319000000,KRW
+2020,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,2975989000000,2306070000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,14780000000,6612000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,47921102000000,46845719000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2504713000000,-2506451000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,47935882000000,46852331000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,42923362000000,42033601000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-298935000000,-482819000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2020,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2020,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,4755102000000,2005975000000,KRW
+2020,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,4755102000000,2005975000000,KRW
+2020,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,3812000000,3103000000,KRW
+2020,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,4758914000000,2009078000000,KRW
+2020,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,1266000000,-90211000000,KRW
+2020,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,1266000000,-90211000000,KRW
+2020,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,1266000000,-90211000000,KRW
+2020,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,-60820000000,21444000000,KRW
+2020,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,-60820000000,21444000000,KRW
+2020,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,-60820000000,21444000000,KRW
+2020,SK하이닉스,자본변동표,파생상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,-417000000,12753000000,KRW
+2020,SK하이닉스,자본변동표,파생상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,-417000000,12753000000,KRW
+2020,SK하이닉스,자본변동표,파생상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,-417000000,12753000000,KRW
+2020,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,-45281000000,149687000000,KRW
+2020,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,-45281000000,149687000000,KRW
+2020,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,-47407000000,150037000000,KRW
+2020,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,-2126000000,350000000,KRW
+2020,SK하이닉스,자본변동표,자기주식의 취득,dart_TreasuryShareTransactions,,,KRW
+2020,SK하이닉스,자본변동표,자기주식의 취득,dart_TreasuryShareTransactions,,,KRW
+2020,SK하이닉스,자본변동표,자기주식의 취득,dart_TreasuryShareTransactions,,,KRW
+2020,SK하이닉스,자본변동표,비지배지분의 증가,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,4090000000,4715000000,KRW
+2020,SK하이닉스,자본변동표,비지배지분의 증가,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,4090000000,4715000000,KRW
+2020,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,684002000000,1026003000000,KRW
+2020,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,684002000000,1026003000000,KRW
+2020,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,684002000000,1026003000000,KRW
+2020,SK하이닉스,자본변동표,주식선택권의 부여,-표준계정코드 미사용-,1591000000,1738000000,KRW
+2020,SK하이닉스,자본변동표,주식선택권의 부여,-표준계정코드 미사용-,1591000000,1738000000,KRW
+2020,SK하이닉스,자본변동표,주식선택권의 부여,-표준계정코드 미사용-,1591000000,1738000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,4143736000000,4143736000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,20556000000,14780000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,51888541000000,47921102000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,46995728000000,42923362000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-405453000000,-298935000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-2503122000000,-2504713000000,KRW
+2020,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,51909097000000,47935882000000,KRW
+2021,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,26870451000000,16570953000000,KRW
+2021,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,5057982000000,2975989000000,KRW
+2021,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,474637000000,436708000000,KRW
+2021,SK하이닉스,재무상태표,단기투자자산,-표준계정코드 미사용-,3139923000000,1535518000000,KRW
+2021,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,8267111000000,4931322000000,KRW
+2021,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,171464000000,69194000000,KRW
+2021,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,8916605000000,6136318000000,KRW
+2021,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,4113000000,202000000,KRW
+2021,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,838586000000,485672000000,KRW
+2021,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,30000000,30000000,KRW
+2021,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,69516023000000,54602900000000,KRW
+2021,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,1410428000000,1166244000000,KRW
+2021,SK하이닉스,재무상태표,장기매출채권,dart_LongTermTradeReceivablesGross,,,KRW
+2021,SK하이닉스,재무상태표,장기투자자산,-표준계정코드 미사용-,6665513000000,6139627000000,KRW
+2021,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,339517000000,75589000000,KRW
+2021,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,91139000000,353000000,KRW
+2021,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,53034270000000,41230562000000,KRW
+2021,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,1597344000000,1707645000000,KRW
+2021,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsOtherThanGoodwill,5065132000000,3400278000000,KRW
+2021,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,164197000000,209417000000,KRW
+2021,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,590244000000,556194000000,KRW
+2021,SK하이닉스,재무상태표,종업원급여자산,-표준계정코드 미사용-,428962000000,61962000000,KRW
+2021,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,129277000000,55029000000,KRW
+2021,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,96386474000000,71173853000000,KRW
+2021,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,14769356000000,9072360000000,KRW
+2021,SK하이닉스,재무상태표,매입채무,dart_ShortTermTradePayables,1359247000000,1046159000000,KRW
+2021,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,4640677000000,2348909000000,KRW
+2021,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,2278316000000,1367193000000,KRW
+2021,SK하이닉스,재무상태표,차입금,ifrs-full_ShorttermBorrowings,2880763000000,3114250000000,KRW
+2021,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,10167000000,13797000000,KRW
+2021,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,3002734000000,636649000000,KRW
+2021,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,302059000000,347464000000,KRW
+2021,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,294780000000,197395000000,KRW
+2021,SK하이닉스,재무상태표,기타금융부채,-표준계정코드 미사용-,613000000,544000000,KRW
+2021,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,19426060000000,10192396000000,KRW
+2021,SK하이닉스,재무상태표,장기미지급금,dart_LongTermOtherPayablesGross,2699071000000,272396000000,KRW
+2021,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,32433000000,29923000000,KRW
+2021,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,14743046000000,8137398000000,KRW
+2021,SK하이닉스,재무상태표,확정급여부채,dart_PresentValueOfDefinedBenefitObligation,1200000000,2739000000,KRW
+2021,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,627995000000,266640000000,KRW
+2021,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,1223703000000,1296252000000,KRW
+2021,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,4606000000,88121000000,KRW
+2021,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,94006000000,98927000000,KRW
+2021,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,34195416000000,19264756000000,KRW
+2021,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,62157072000000,51888541000000,KRW
+2021,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2021,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4334643000000,4143736000000,KRW
+2021,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2294562000000,-2503122000000,KRW
+2021,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,675271000000,-405453000000,KRW
+2021,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,55784068000000,46995728000000,KRW
+2021,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,33986000000,20556000000,KRW
+2021,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,62191058000000,51909097000000,KRW
+2021,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,96386474000000,71173853000000,KRW
+2021,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,42997792000000,31900418000000,KRW
+2021,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,24045600000000,21089789000000,KRW
+2021,SK하이닉스,포괄손익계산서,매출총이익,ifrs-full_GrossProfit,18952192000000,10810629000000,KRW
+2021,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,6541852000000,5798005000000,KRW
+2021,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,12410340000000,5012624000000,KRW
+2021,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,2377516000000,3327905000000,KRW
+2021,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,1469860000000,1980411000000,KRW
+2021,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,162280000000,-36279000000,KRW
+2021,SK하이닉스,포괄손익계산서,기타영업외수익,-표준계정코드 미사용-,116135000000,84773000000,KRW
+2021,SK하이닉스,포괄손익계산서,기타영업외비용,-표준계정코드 미사용-,180424000000,171575000000,KRW
+2021,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs-full_ProfitLossBeforeTax,13415987000000,6237037000000,KRW
+2021,SK하이닉스,포괄손익계산서,법인세비용,ifrs-full_IncomeTaxExpenseContinuingOperations,3799799000000,1478123000000,KRW
+2021,SK하이닉스,포괄손익계산서,당기순이익,ifrs-full_ProfitLoss,9616188000000,4758914000000,KRW
+2021,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,1071330000000,-107378000000,KRW
+2021,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-13694000000,1266000000,KRW
+2021,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,963288000000,-47407000000,KRW
+2021,SK하이닉스,포괄손익계산서,파생상품평가손익,-표준계정코드 미사용-,10143000000,-417000000,KRW
+2021,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,111593000000,-60820000000,KRW
+2021,SK하이닉스,포괄손익계산서,총포괄이익,ifrs-full_ComprehensiveIncome,10687518000000,4651536000000,KRW
+2021,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,9602316000000,4755102000000,KRW
+2021,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,13872000000,3812000000,KRW
+2021,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,10669346000000,4649850000000,KRW
+2021,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,18172000000,1686000000,KRW
+2021,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs-full_BasicEarningsLossPerShare,13989,6952,KRW
+2021,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs-full_DilutedEarningsLossPerShare,13984,6950,KRW
+2021,SK하이닉스,현금흐름표,영업활동 현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,19797648000000,12314571000000,KRW
+2021,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,-표준계정코드 미사용-,20951478000000,12916771000000,KRW
+2021,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,17341000000,40635000000,KRW
+2021,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,240942000000,288565000000,KRW
+2021,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,84679000000,16365000000,KRW
+2021,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,1014908000000,370635000000,KRW
+2021,SK하이닉스,현금흐름표,투자활동 현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-22392277000000,-11840393000000,KRW
+2021,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,2572550000000,913591000000,KRW
+2021,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,2600586000000,1054401000000,KRW
+2021,SK하이닉스,현금흐름표,단기투자자산의 순증감,-표준계정코드 미사용-,-1548448000000,-115122000000,KRW
+2021,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,213000000,773000000,KRW
+2021,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,29830000000,205000000,KRW
+2021,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,47027000000,36722000000,KRW
+2021,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,79537000000,238727000000,KRW
+2021,SK하이닉스,현금흐름표,장기투자자산의 처분,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,45972000000,708000000,KRW
+2021,SK하이닉스,현금흐름표,장기투자자산의 취득,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,130318000000,93846000000,KRW
+2021,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,79940000000,59089000000,KRW
+2021,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,12486635000000,10068662000000,KRW
+2021,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,2073000000,695000000,KRW
+2021,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,973893000000,800729000000,KRW
+2021,SK하이닉스,현금흐름표,영업양도로 인한 현금 유입,-표준계정코드 미사용-,3000000000,2958000000,KRW
+2021,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInSubsidiaries,44862000000,483237000000,KRW
+2021,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,7250087000000,,KRW
+2021,SK하이닉스,현금흐름표,종속기업 취득에 따른 순현금유입,-표준계정코드 미사용-,1144000000,,KRW
+2021,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,4492313000000,252054000000,KRW
+2021,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,8933737000000,5173016000000,KRW
+2021,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,3320911000000,3921310000000,KRW
+2021,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,323975000000,319740000000,KRW
+2021,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,805024000000,684002000000,KRW
+2021,SK하이닉스,현금흐름표,비지배지분의 증가,-표준계정코드 미사용-,,4090000000,KRW
+2021,SK하이닉스,현금흐름표,자기주식의 처분,dart_DispositionOfTreasuryShares,8484000000,,KRW
+2021,SK하이닉스,현금흐름표,주식선택권의 행사,dart_ProceedsFromExerciseOfShareOptions,2000000,,KRW
+2021,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,184309000000,-56313000000,KRW
+2021,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,2081993000000,669919000000,KRW
+2021,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,2975989000000,2306070000000,KRW
+2021,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,5057982000000,2975989000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,51888541000000,47921102000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2503122000000,-2504713000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,20556000000,14780000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,51909097000000,47935882000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,46995728000000,42923362000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-405453000000,-298935000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4143736000000,4143736000000,KRW
+2021,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2021,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,9602316000000,4755102000000,KRW
+2021,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,9602316000000,4755102000000,KRW
+2021,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,13872000000,3812000000,KRW
+2021,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,9616188000000,4758914000000,KRW
+2021,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-13694000000,1266000000,KRW
+2021,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-13694000000,1266000000,KRW
+2021,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,-13694000000,1266000000,KRW
+2021,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,111593000000,-60820000000,KRW
+2021,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,111593000000,-60820000000,KRW
+2021,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,111593000000,-60820000000,KRW
+2021,SK하이닉스,자본변동표,파생금융상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,10143000000,-417000000,KRW
+2021,SK하이닉스,자본변동표,파생금융상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,10143000000,-417000000,KRW
+2021,SK하이닉스,자본변동표,파생금융상품평가손익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,10143000000,-417000000,KRW
+2021,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,958988000000,-45281000000,KRW
+2021,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,4300000000,-2126000000,KRW
+2021,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,963288000000,-47407000000,KRW
+2021,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,958988000000,-45281000000,KRW
+2021,SK하이닉스,자본변동표,비지배지분의 증가,-표준계정코드 미사용-,,4090000000,KRW
+2021,SK하이닉스,자본변동표,비지배지분의 증가,-표준계정코드 미사용-,,4090000000,KRW
+2021,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,800282000000,684002000000,KRW
+2021,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,800282000000,684002000000,KRW
+2021,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,4742000000,,KRW
+2021,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,805024000000,684002000000,KRW
+2021,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,191247000000,,KRW
+2021,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,206308000000,,KRW
+2021,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,397555000000,,KRW
+2021,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,397555000000,,KRW
+2021,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,1912000000,1591000000,KRW
+2021,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,-340000000,,KRW
+2021,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,2252000000,1591000000,KRW
+2021,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,1912000000,1591000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,675271000000,-405453000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,55784068000000,46995728000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,4334643000000,4143736000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,62157072000000,51888541000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,33986000000,20556000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,62191058000000,51909097000000,KRW
+2021,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-2294562000000,-2503122000000,KRW
+2022,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,28733332000000,26907075000000,KRW
+2022,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,4977007000000,5057982000000,KRW
+2022,SK하이닉스,재무상태표,단기금융상품,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,415625000000,474637000000,KRW
+2022,SK하이닉스,재무상태표,단기투자자산,-표준계정코드 미사용-,1016360000000,3139923000000,KRW
+2022,SK하이닉스,재무상태표,매출채권,dart_ShortTermTradeReceivable,5186054000000,8267111000000,KRW
+2022,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,272512000000,171464000000,KRW
+2022,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,15664707000000,8950087000000,KRW
+2022,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,14523000000,4113000000,KRW
+2022,SK하이닉스,재무상태표,기타유동자산,dart_OtherCurrentAssets,1186544000000,841728000000,KRW
+2022,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,,30000000,KRW
+2022,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,75138180000000,69439450000000,KRW
+2022,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,1352845000000,1410428000000,KRW
+2022,SK하이닉스,재무상태표,장기투자자산,-표준계정코드 미사용-,5733544000000,6665513000000,KRW
+2022,SK하이닉스,재무상태표,기타수취채권,-표준계정코드 미사용-,354167000000,339517000000,KRW
+2022,SK하이닉스,재무상태표,기타금융자산,-표준계정코드 미사용-,115712000000,91139000000,KRW
+2022,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,60228528000000,53225667000000,KRW
+2022,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,1779985000000,1597344000000,KRW
+2022,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsOtherThanGoodwill,3512107000000,4797162000000,KRW
+2022,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,223000000,164197000000,KRW
+2022,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,657115000000,590244000000,KRW
+2022,SK하이닉스,재무상태표,종업원급여자산,-표준계정코드 미사용-,1332253000000,428962000000,KRW
+2022,SK하이닉스,재무상태표,기타비유동자산,dart_OtherNonCurrentAssets,71701000000,129277000000,KRW
+2022,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,103871512000000,96346525000000,KRW
+2022,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,19843696000000,14735395000000,KRW
+2022,SK하이닉스,재무상태표,매입채무,dart_ShortTermTradePayables,2186230000000,1359247000000,KRW
+2022,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,5445335000000,4606716000000,KRW
+2022,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,3024648000000,2278316000000,KRW
+2022,SK하이닉스,재무상태표,차입금,ifrs-full_ShorttermBorrowings,7423247000000,2880763000000,KRW
+2022,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,251889000000,10167000000,KRW
+2022,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,696553000000,3002734000000,KRW
+2022,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,280873000000,302059000000,KRW
+2022,SK하이닉스,재무상태표,기타유동부채,dart_OtherCurrentLiabilities,534335000000,294780000000,KRW
+2022,SK하이닉스,재무상태표,기타금융부채,-표준계정코드 미사용-,586000000,613000000,KRW
+2022,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,20737274000000,19420072000000,KRW
+2022,SK하이닉스,재무상태표,장기미지급금,dart_LongTermOtherPayablesGross,2958659000000,2693301000000,KRW
+2022,SK하이닉스,재무상태표,기타지급채무,-표준계정코드 미사용-,28083000000,32215000000,KRW
+2022,SK하이닉스,재무상태표,차입금,dart_LongTermBorrowingsGross,15571357000000,14743046000000,KRW
+2022,SK하이닉스,재무상태표,충당부채,ifrs-full_NoncurrentProvisions,1404000000,,KRW
+2022,SK하이닉스,재무상태표,확정급여부채,dart_PresentValueOfDefinedBenefitObligation,69952000000,1200000000,KRW
+2022,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,382477000000,627995000000,KRW
+2022,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,1516208000000,1223703000000,KRW
+2022,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,4290000000,4606000000,KRW
+2022,SK하이닉스,재무상태표,기타비유동부채,dart_OtherNonCurrentLiabilities,204844000000,94006000000,KRW
+2022,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,40580970000000,34155467000000,KRW
+2022,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,63266355000000,62157072000000,KRW
+2022,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2022,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4336170000000,4334643000000,KRW
+2022,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2311409000000,-2294562000000,KRW
+2022,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,898682000000,675271000000,KRW
+2022,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,56685260000000,55784068000000,KRW
+2022,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,24187000000,33986000000,KRW
+2022,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,63290542000000,62191058000000,KRW
+2022,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,103871512000000,96346525000000,KRW
+2022,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,44621568000000,42997792000000,KRW
+2022,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,28993713000000,24045600000000,KRW
+2022,SK하이닉스,포괄손익계산서,매출총이익,ifrs-full_GrossProfit,15627855000000,18952192000000,KRW
+2022,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,8818438000000,6541852000000,KRW
+2022,SK하이닉스,포괄손익계산서,영업이익,dart_OperatingIncomeLoss,6809417000000,12410340000000,KRW
+2022,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,3714278000000,2377516000000,KRW
+2022,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,5091553000000,1469860000000,KRW
+2022,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,-표준계정코드 미사용-,131186000000,162280000000,KRW
+2022,SK하이닉스,포괄손익계산서,기타영업외수익,-표준계정코드 미사용-,241371000000,116135000000,KRW
+2022,SK하이닉스,포괄손익계산서,기타영업외비용,-표준계정코드 미사용-,1801919000000,180424000000,KRW
+2022,SK하이닉스,포괄손익계산서,법인세비용차감전순이익,ifrs-full_ProfitLossBeforeTax,4002780000000,13415987000000,KRW
+2022,SK하이닉스,포괄손익계산서,법인세비용,ifrs-full_IncomeTaxExpenseContinuingOperations,1761111000000,3799799000000,KRW
+2022,SK하이닉스,포괄손익계산서,당기순이익,ifrs-full_ProfitLoss,2241669000000,9616188000000,KRW
+2022,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,580499000000,1071330000000,KRW
+2022,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,349453000000,-13694000000,KRW
+2022,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,154321000000,963288000000,KRW
+2022,SK하이닉스,포괄손익계산서,파생상품평가이익,-표준계정코드 미사용-,5725000000,10143000000,KRW
+2022,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,71000000000,111593000000,KRW
+2022,SK하이닉스,포괄손익계산서,총포괄이익,ifrs-full_ComprehensiveIncome,2822168000000,10687518000000,KRW
+2022,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,2229560000000,9602316000000,KRW
+2022,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,12109000000,13872000000,KRW
+2022,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,2802424000000,10669346000000,KRW
+2022,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,19744000000,18172000000,KRW
+2022,SK하이닉스,포괄손익계산서,기본주당순이익,ifrs-full_BasicEarningsLossPerShare,3242,13989,KRW
+2022,SK하이닉스,포괄손익계산서,희석주당순이익,ifrs-full_DilutedEarningsLossPerShare,3242,13984,KRW
+2022,SK하이닉스,현금흐름표,영업활동 현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,14780517000000,19797648000000,KRW
+2022,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,-표준계정코드 미사용-,19083888000000,20951478000000,KRW
+2022,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,77430000000,17341000000,KRW
+2022,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,494513000000,240942000000,KRW
+2022,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,93067000000,84679000000,KRW
+2022,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,3979355000000,1014908000000,KRW
+2022,SK하이닉스,현금흐름표,투자활동 현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-17883746000000,-22392277000000,KRW
+2022,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,2022053000000,2572550000000,KRW
+2022,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,1966360000000,2600586000000,KRW
+2022,SK하이닉스,현금흐름표,단기투자자산의 순증감,-표준계정코드 미사용-,2195111000000,-1548448000000,KRW
+2022,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,29950000000,213000000,KRW
+2022,SK하이닉스,현금흐름표,기타금융자산의 처분(취득),dart_PurchaseOfOtherFinancialAssets,600000000,29830000000,KRW
+2022,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,39051000000,47027000000,KRW
+2022,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,72248000000,79537000000,KRW
+2022,SK하이닉스,현금흐름표,장기투자자산의 처분,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,4306000000,45972000000,KRW
+2022,SK하이닉스,현금흐름표,장기투자자산의 취득,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,115537000000,130318000000,KRW
+2022,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,323718000000,79940000000,KRW
+2022,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,19010261000000,12486635000000,KRW
+2022,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,1018000000,2073000000,KRW
+2022,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,738621000000,973893000000,KRW
+2022,SK하이닉스,현금흐름표,투자부동산의 처분,dart_ProceedsFromSalesOfInvestmentProperty,263211000000,,KRW
+2022,SK하이닉스,현금흐름표,관계기업투자의 처분,-표준계정코드 미사용-,209843000000,,KRW
+2022,SK하이닉스,현금흐름표,관계기업투자의 취득,dart_PurchaseOfInvestmentsInSubsidiaries,40717000000,44862000000,KRW
+2022,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,1027663000000,7250087000000,KRW
+2022,SK하이닉스,현금흐름표,기타,-표준계정코드 미사용-,,4144000000,KRW
+2022,SK하이닉스,현금흐름표,재무활동 현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,2821796000000,4492313000000,KRW
+2022,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,11917454000000,8933737000000,KRW
+2022,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,7124565000000,3320911000000,KRW
+2022,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,301858000000,323975000000,KRW
+2022,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,1680905000000,805024000000,KRW
+2022,SK하이닉스,현금흐름표,자기주식의 처분,dart_DispositionOfTreasuryShares,11653000000,8484000000,KRW
+2022,SK하이닉스,현금흐름표,주식선택권의 행사,dart_ProceedsFromExerciseOfShareOptions,17000000,2000000,KRW
+2022,SK하이닉스,현금흐름표,비지배지분의 증가,-표준계정코드 미사용-,,,KRW
+2022,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,200458000000,184309000000,KRW
+2022,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,-80975000000,2081993000000,KRW
+2022,SK하이닉스,현금흐름표,기초 현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,5057982000000,2975989000000,KRW
+2022,SK하이닉스,현금흐름표,기말 현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,4977007000000,5057982000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,55784068000000,46995728000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4334643000000,4143736000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,62191058000000,51909097000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,33986000000,20556000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,62157072000000,51888541000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2294562000000,-2503122000000,KRW
+2022,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,675271000000,-405453000000,KRW
+2022,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2229560000000,9602316000000,KRW
+2022,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2241669000000,9616188000000,KRW
+2022,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,12109000000,13872000000,KRW
+2022,SK하이닉스,자본변동표,당기순이익,ifrs-full_ProfitLoss,2229560000000,9602316000000,KRW
+2022,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,349453000000,-13694000000,KRW
+2022,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,349453000000,-13694000000,KRW
+2022,SK하이닉스,자본변동표,확정급여제도의 재측정요소,-표준계정코드 미사용-,349453000000,-13694000000,KRW
+2022,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,71000000000,111593000000,KRW
+2022,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,71000000000,111593000000,KRW
+2022,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,-표준계정코드 미사용-,71000000000,111593000000,KRW
+2022,SK하이닉스,자본변동표,파생금융상품평가이익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,5725000000,10143000000,KRW
+2022,SK하이닉스,자본변동표,파생금융상품평가이익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,5725000000,10143000000,KRW
+2022,SK하이닉스,자본변동표,파생금융상품평가이익,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,5725000000,10143000000,KRW
+2022,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,154321000000,963288000000,KRW
+2022,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,7635000000,4300000000,KRW
+2022,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,146686000000,958988000000,KRW
+2022,SK하이닉스,자본변동표,해외사업장환산외환차이,-표준계정코드 미사용-,146686000000,958988000000,KRW
+2022,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,-26459000000,,KRW
+2022,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,-26459000000,,KRW
+2022,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,3084000000,4742000000,KRW
+2022,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1677821000000,800282000000,KRW
+2022,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1677821000000,800282000000,KRW
+2022,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1680905000000,805024000000,KRW
+2022,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,1527000000,191247000000,KRW
+2022,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,1731000000,206308000000,KRW
+2022,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,3258000000,397555000000,KRW
+2022,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,3258000000,397555000000,KRW
+2022,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,7241000000,2252000000,KRW
+2022,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,,-340000000,KRW
+2022,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,7241000000,1912000000,KRW
+2022,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,7241000000,1912000000,KRW
+2022,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,-25819000000,,KRW
+2022,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,-25819000000,,KRW
+2022,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,-25819000000,,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,898682000000,675271000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,56685260000000,55784068000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,4336170000000,4334643000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,63266355000000,62157072000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,24187000000,33986000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,63290542000000,62191058000000,KRW
+2022,SK하이닉스,자본변동표,기말자본,ifrs-full_Equity,-2311409000000,-2294562000000,KRW
+2023,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,100330165000000,103871512000000,KRW
+2023,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,30468100000000,28733332000000,KRW
+2023,SK하이닉스,재무상태표,매각예정자산,-표준계정코드 미사용-,29441000000,,KRW
+2023,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,7587329000000,4977007000000,KRW
+2023,SK하이닉스,재무상태표,단기투자자산,ifrs-full_CurrentInvestments,860972000000,1016360000000,KRW
+2023,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,69916000000,14523000000,KRW
+2023,SK하이닉스,재무상태표,매출채권,ifrs-full_CurrentTradeReceivables,6600273000000,5186054000000,KRW
+2023,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,13480659000000,15664707000000,KRW
+2023,SK하이닉스,재무상태표,기타유동자산,ifrs-full_OtherCurrentAssets,925502000000,1186544000000,KRW
+2023,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherCurrentFinancialAssets,83750000000,,KRW
+2023,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherCurrentReceivables,357641000000,272512000000,KRW
+2023,SK하이닉스,재무상태표,단기금융상품,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,472617000000,415625000000,KRW
+2023,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,69862065000000,75138180000000,KRW
+2023,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,2989472000000,657115000000,KRW
+2023,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsAndGoodwill,3834567000000,3512107000000,KRW
+2023,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentAccountedForUsingEquityMethod,1367348000000,1352845000000,KRW
+2023,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,211000000,223000000,KRW
+2023,SK하이닉스,재무상태표,장기투자자산,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,4105704000000,5733544000000,KRW
+2023,SK하이닉스,재무상태표,종업원급여자산,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,1404014000000,1332253000000,KRW
+2023,SK하이닉스,재무상태표,기타비유동자산,ifrs-full_OtherNoncurrentAssets,217822000000,71701000000,KRW
+2023,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherNoncurrentFinancialAssets,68217000000,115712000000,KRW
+2023,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherNoncurrentReceivables,475013000000,354167000000,KRW
+2023,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,52704853000000,60228528000000,KRW
+2023,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,2694844000000,1779985000000,KRW
+2023,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,53503752000000,63290542000000,KRW
+2023,SK하이닉스,재무상태표,지배기업의 소유주에게 귀속되는 자본,ifrs-full_EquityAttributableToOwnersOfParent,53504285000000,63266355000000,KRW
+2023,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4372559000000,4336170000000,KRW
+2023,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2269294000000,-2311409000000,KRW
+2023,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,1014055000000,898682000000,KRW
+2023,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2023,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,46729313000000,56685260000000,KRW
+2023,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,-533000000,24187000000,KRW
+2023,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,100330165000000,103871512000000,KRW
+2023,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,21007810000000,19843696000000,KRW
+2023,SK하이닉스,재무상태표,기타지급채무,dart_CurrentNontradePayables,1688631000000,3024648000000,KRW
+2023,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,3293308000000,5445335000000,KRW
+2023,SK하이닉스,재무상태표,차입금,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,9857189000000,7423247000000,KRW
+2023,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,631497000000,280873000000,KRW
+2023,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,286517000000,251889000000,KRW
+2023,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,43890000000,696553000000,KRW
+2023,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherCurrentFinancialLiabilities,1478980000000,586000000,KRW
+2023,SK하이닉스,재무상태표,기타 유동부채,ifrs-full_OtherCurrentLiabilities,1882261000000,534335000000,KRW
+2023,SK하이닉스,재무상태표,매입채무,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,1845537000000,2186230000000,KRW
+2023,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,46826413000000,40580970000000,KRW
+2023,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,25818603000000,20737274000000,KRW
+2023,SK하이닉스,재무상태표,기타지급채무,dart_NoncurrentNontradePayables,96567000000,28083000000,KRW
+2023,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,114396000000,382477000000,KRW
+2023,SK하이닉스,재무상태표,차입금,ifrs-full_LongtermBorrowings,19611443000000,15571357000000,KRW
+2023,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,2398377000000,1516208000000,KRW
+2023,SK하이닉스,재무상태표,충당부채,ifrs-full_NoncurrentProvisions,1603000000,1404000000,KRW
+2023,SK하이닉스,재무상태표,확정급여부채,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,63932000000,69952000000,KRW
+2023,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,3247000000,4290000000,KRW
+2023,SK하이닉스,재무상태표,기타 비유동 부채,ifrs-full_OtherNoncurrentLiabilities,385402000000,204844000000,KRW
+2023,SK하이닉스,재무상태표,장기미지급금,ifrs-full_OtherNoncurrentPayables,3143636000000,2958659000000,KRW
+2023,SK하이닉스,포괄손익계산서,영업이익(손실),dart_OperatingIncomeLoss,-7730313000000,6809417000000,KRW
+2023,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,623867000000,241371000000,KRW
+2023,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,735065000000,1801919000000,KRW
+2023,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,7196865000000,8818438000000,KRW
+2023,SK하이닉스,포괄손익계산서,총포괄손익,ifrs-full_ComprehensiveIncome,-9037496000000,2822168000000,KRW
+2023,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,-22497000000,19744000000,KRW
+2023,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,-9014999000000,2802424000000,KRW
+2023,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,33299167000000,28993713000000,KRW
+2023,SK하이닉스,포괄손익계산서,기본주당이익(손실),ifrs-full_BasicEarningsLossPerShare,-13244,3242,KRW
+2023,SK하이닉스,포괄손익계산서,희석주당이익(손실),ifrs-full_DilutedEarningsLossPerShare,-13244,3242,KRW
+2023,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,6093167000000,5091553000000,KRW
+2023,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,2261801000000,3714278000000,KRW
+2023,SK하이닉스,포괄손익계산서,매출총이익,ifrs-full_GrossProfit,-533448000000,15627855000000,KRW
+2023,SK하이닉스,포괄손익계산서,법인세비용(수익),ifrs-full_IncomeTaxExpenseContinuingOperations,-2520269000000,1761111000000,KRW
+2023,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,100051000000,580499000000,KRW
+2023,SK하이닉스,포괄손익계산서,파생상품평가이익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,-22414000000,5725000000,KRW
+2023,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,132561000000,154321000000,KRW
+2023,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,7848000000,71000000000,KRW
+2023,SK하이닉스,포괄손익계산서,확정급여부채의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-17944000000,349453000000,KRW
+2023,SK하이닉스,포괄손익계산서,당기순이익(손실),ifrs-full_ProfitLoss,-9137547000000,2241669000000,KRW
+2023,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,-25119000000,12109000000,KRW
+2023,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,-9112428000000,2229560000000,KRW
+2023,SK하이닉스,포괄손익계산서,법인세비용차감전순이익(손실),ifrs-full_ProfitLossBeforeTax,-11657816000000,4002780000000,KRW
+2023,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,32765719000000,44621568000000,KRW
+2023,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,15061000000,131186000000,KRW
+2023,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,4977007000000,5057982000000,KRW
+2023,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,7587329000000,4977007000000,KRW
+2023,SK하이닉스,현금흐름표,재무활동현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,5696845000000,2821796000000,KRW
+2023,SK하이닉스,현금흐름표,자기주식의 처분,dart_DispositionOfTreasuryShares,24519000000,11653000000,KRW
+2023,SK하이닉스,현금흐름표,리스부채의 상환,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,461466000000,301858000000,KRW
+2023,SK하이닉스,현금흐름표,주식선택권의 행사,dart_ProceedsFromExerciseOfShareOptions,53000000,17000000,KRW
+2023,SK하이닉스,현금흐름표,종속기업 유상증자 및 소유지분변동,-표준계정코드 미사용-,-9220000000,,KRW
+2023,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,825575000000,1680905000000,KRW
+2023,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,20657967000000,11917454000000,KRW
+2023,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,13689433000000,7124565000000,KRW
+2023,SK하이닉스,현금흐름표,투자활동현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-7334727000000,-17883746000000,KRW
+2023,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,47564000000,39051000000,KRW
+2023,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,577000000,29950000000,KRW
+2023,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,1409187000000,2022053000000,KRW
+2023,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,251498000000,72248000000,KRW
+2023,SK하이닉스,현금흐름표,기타금융자산의 처분(취득),dart_PurchaseOfOtherFinancialAssets,5358000000,600000000,KRW
+2023,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,1469396000000,1966360000000,KRW
+2023,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,,1027663000000,KRW
+2023,SK하이닉스,현금흐름표,장기투자자산의 처분,-표준계정코드 미사용-,18279000000,4306000000,KRW
+2023,SK하이닉스,현금흐름표,장기투자자산의 취득,-표준계정코드 미사용-,30537000000,115537000000,KRW
+2023,SK하이닉스,현금흐름표,단기투자자산의 순증감,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,199912000000,2195111000000,KRW
+2023,SK하이닉스,현금흐름표,기타,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,,,KRW
+2023,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,484000000,1018000000,KRW
+2023,SK하이닉스,현금흐름표,투자부동산의 처분,ifrs-full_ProceedsFromSalesOfInvestmentProperty,,263211000000,KRW
+2023,SK하이닉스,현금흐름표,관계기업투자의 처분,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,8847000000,209843000000,KRW
+2023,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,1539825000000,323718000000,KRW
+2023,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,454710000000,738621000000,KRW
+2023,SK하이닉스,현금흐름표,관계기업투자의 취득,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,22765000000,40717000000,KRW
+2023,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,8325138000000,19010261000000,KRW
+2023,SK하이닉스,현금흐름표,영업활동현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,4278191000000,14780517000000,KRW
+2023,SK하이닉스,현금흐름표,영업에서 창출된 현금흐름,ifrs-full_CashFlowsFromUsedInOperations,6688866000000,19083888000000,KRW
+2023,SK하이닉스,현금흐름표,배당금수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,35935000000,93067000000,KRW
+2023,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,1383942000000,3979355000000,KRW
+2023,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,1261540000000,494513000000,KRW
+2023,SK하이닉스,현금흐름표,이자수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,198872000000,77430000000,KRW
+2023,SK하이닉스,현금흐름표,현금및현금성자산에 대한 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-29987000000,200458000000,KRW
+2023,SK하이닉스,현금흐름표,현금및현금성자산의순증가(감소),ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,2610322000000,-80975000000,KRW
+2023,SK하이닉스,자본변동표,비지배지분의 감소,dart_DecreaseInNoncontrollingInterests,,-26459000000,KRW
+2023,SK하이닉스,자본변동표,비지배지분의 감소,dart_DecreaseInNoncontrollingInterests,,-26459000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4336170000000,4334643000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2311409000000,-2294562000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,898682000000,675271000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,56685260000000,55784068000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,24187000000,33986000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,63290542000000,62191058000000,KRW
+2023,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,63266355000000,62157072000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,,-25819000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,,-25819000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,,-25819000000,KRW
+2023,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,41364000000,3258000000,KRW
+2023,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,41364000000,3258000000,KRW
+2023,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,27798000000,1731000000,KRW
+2023,SK하이닉스,자본변동표,자기주식의 처분,-표준계정코드 미사용-,13566000000,1527000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,4530000000,,KRW
+2023,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,44138000000,7241000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,39608000000,7241000000,KRW
+2023,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,25291000000,,KRW
+2023,SK하이닉스,자본변동표,주식선택권의 부여/행사,-표준계정코드 미사용-,14317000000,7241000000,KRW
+2023,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,825575000000,1680905000000,KRW
+2023,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,825575000000,1677821000000,KRW
+2023,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,,3084000000,KRW
+2023,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,825575000000,1677821000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,53503752000000,63290542000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,-533000000,24187000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,4372559000000,4336170000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,46729313000000,56685260000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,1014055000000,898682000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,-2269294000000,-2311409000000,KRW
+2023,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,53504285000000,63266355000000,KRW
+2023,SK하이닉스,자본변동표,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,-2468000000,,KRW
+2023,SK하이닉스,자본변동표,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,-6753000000,,KRW
+2023,SK하이닉스,자본변동표,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,-9221000000,,KRW
+2023,SK하이닉스,자본변동표,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,-2468000000,,KRW
+2023,SK하이닉스,자본변동표,파생금융상품평가이익,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,-22414000000,5725000000,KRW
+2023,SK하이닉스,자본변동표,파생금융상품평가이익,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,-22414000000,5725000000,KRW
+2023,SK하이닉스,자본변동표,파생금융상품평가이익,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,-22414000000,5725000000,KRW
+2023,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,129939000000,146686000000,KRW
+2023,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,2622000000,7635000000,KRW
+2023,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,132561000000,154321000000,KRW
+2023,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,129939000000,146686000000,KRW
+2023,SK하이닉스,자본변동표,확정급여부채의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-17944000000,349453000000,KRW
+2023,SK하이닉스,자본변동표,확정급여부채의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-17944000000,349453000000,KRW
+2023,SK하이닉스,자본변동표,확정급여부채의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-17944000000,349453000000,KRW
+2023,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,-9137547000000,2241669000000,KRW
+2023,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,-25119000000,12109000000,KRW
+2023,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,-9112428000000,2229560000000,KRW
+2023,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,-9112428000000,2229560000000,KRW
+2023,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,7848000000,71000000000,KRW
+2023,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,7848000000,71000000000,KRW
+2023,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,7848000000,71000000000,KRW
+2024,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,119855209000000,100330165000000,KRW
+2024,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,42278887000000,30468100000000,KRW
+2024,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,11205117000000,7587329000000,KRW
+2024,SK하이닉스,재무상태표,단기투자자산,ifrs-full_CurrentInvestments,569236000000,860972000000,KRW
+2024,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,57467000000,69916000000,KRW
+2024,SK하이닉스,재무상태표,매출채권,ifrs-full_CurrentTradeReceivables,13019006000000,6600273000000,KRW
+2024,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,13313937000000,13480659000000,KRW
+2024,SK하이닉스,재무상태표,매각예정자산,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,0,29441000000,KRW
+2024,SK하이닉스,재무상태표,기타유동자산,ifrs-full_OtherCurrentAssets,1393744000000,925502000000,KRW
+2024,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherCurrentFinancialAssets,45309000000,83750000000,KRW
+2024,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherCurrentReceivables,293061000000,357641000000,KRW
+2024,SK하이닉스,재무상태표,단기금융상품,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,2382010000000,472617000000,KRW
+2024,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,77576322000000,69862065000000,KRW
+2024,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,2811559000000,2989472000000,KRW
+2024,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsAndGoodwill,4018847000000,3834567000000,KRW
+2024,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentAccountedForUsingEquityMethod,1940663000000,1367348000000,KRW
+2024,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,200000000,211000000,KRW
+2024,SK하이닉스,재무상태표,장기투자자산,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,4041276000000,4105704000000,KRW
+2024,SK하이닉스,재무상태표,종업원급여자산,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,1154255000000,1404014000000,KRW
+2024,SK하이닉스,재무상태표,기타비유동자산,ifrs-full_OtherNoncurrentAssets,174142000000,217822000000,KRW
+2024,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherNoncurrentFinancialAssets,346749000000,68217000000,KRW
+2024,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherNoncurrentReceivables,444286000000,475013000000,KRW
+2024,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,60157474000000,52704853000000,KRW
+2024,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,2486871000000,2694844000000,KRW
+2024,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,73915704000000,53503752000000,KRW
+2024,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,73903394000000,53504285000000,KRW
+2024,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,4487123000000,4372559000000,KRW
+2024,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-2191549000000,-2269294000000,KRW
+2024,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,2532107000000,1014055000000,KRW
+2024,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2024,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,65418061000000,46729313000000,KRW
+2024,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,12310000000,-533000000,KRW
+2024,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,119855209000000,100330165000000,KRW
+2024,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,24965444000000,21007810000000,KRW
+2024,SK하이닉스,재무상태표,기타지급채무,dart_CurrentNontradePayables,3983543000000,1688631000000,KRW
+2024,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,6967013000000,3293308000000,KRW
+2024,SK하이닉스,재무상태표,차입금,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,5252238000000,9857189000000,KRW
+2024,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,588355000000,631497000000,KRW
+2024,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,270235000000,286517000000,KRW
+2024,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,3083950000000,43890000000,KRW
+2024,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherCurrentFinancialLiabilities,1741587000000,1478980000000,KRW
+2024,SK하이닉스,재무상태표,기타 유동부채,ifrs-full_OtherCurrentLiabilities,801176000000,1882261000000,KRW
+2024,SK하이닉스,재무상태표,매입채무,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,2277347000000,1845537000000,KRW
+2024,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,45939505000000,46826413000000,KRW
+2024,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,20974061000000,25818603000000,KRW
+2024,SK하이닉스,재무상태표,기타지급채무,dart_NoncurrentNontradePayables,51897000000,96567000000,KRW
+2024,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,217852000000,114396000000,KRW
+2024,SK하이닉스,재무상태표,차입금,ifrs-full_LongtermBorrowings,17431495000000,19611443000000,KRW
+2024,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,2180021000000,2398377000000,KRW
+2024,SK하이닉스,재무상태표,충당부채,ifrs-full_NoncurrentProvisions,0,1603000000,KRW
+2024,SK하이닉스,재무상태표,확정급여부채,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,68090000000,63932000000,KRW
+2024,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,5909000000,3247000000,KRW
+2024,SK하이닉스,재무상태표,기타비유동부채,ifrs-full_OtherNoncurrentLiabilities,541770000000,385402000000,KRW
+2024,SK하이닉스,재무상태표,장기미지급금,ifrs-full_OtherNoncurrentPayables,477027000000,3143636000000,KRW
+2024,SK하이닉스,포괄손익계산서,영업이익(손실),dart_OperatingIncomeLoss,23467319000000,-7730313000000,KRW
+2024,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,1476579000000,623867000000,KRW
+2024,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,167388000000,735065000000,KRW
+2024,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,8360827000000,7196865000000,KRW
+2024,SK하이닉스,포괄손익계산서,총포괄이익(손실),ifrs-full_ComprehensiveIncome,21044422000000,-9037496000000,KRW
+2024,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,11299000000,-22497000000,KRW
+2024,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,21033123000000,-9014999000000,KRW
+2024,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,34364814000000,33299167000000,KRW
+2024,SK하이닉스,포괄손익계산서,기본주당이익(손실),ifrs-full_BasicEarningsLossPerShare,28732,-13244,KRW
+2024,SK하이닉스,포괄손익계산서,희석주당이익(손실),ifrs-full_DilutedEarningsLossPerShare,28419,-13244,KRW
+2024,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,5707997000000,6093167000000,KRW
+2024,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,4855082000000,2261801000000,KRW
+2024,SK하이닉스,포괄손익계산서,매출총이익(손실),ifrs-full_GrossProfit,31828146000000,-533448000000,KRW
+2024,SK하이닉스,포괄손익계산서,법인세비용(수익),ifrs-full_IncomeTaxExpenseContinuingOperations,4088448000000,-2520269000000,KRW
+2024,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,1247520000000,100051000000,KRW
+2024,SK하이닉스,포괄손익계산서,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,637000000,-22414000000,KRW
+2024,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,1374587000000,132561000000,KRW
+2024,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,145906000000,7848000000,KRW
+2024,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-273610000000,-17944000000,KRW
+2024,SK하이닉스,포괄손익계산서,당기순이익(손실),ifrs-full_ProfitLoss,19796902000000,-9137547000000,KRW
+2024,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,8221000000,-25119000000,KRW
+2024,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,19788681000000,-9112428000000,KRW
+2024,SK하이닉스,포괄손익계산서,법인세비용차감전순이익(손실),ifrs-full_ProfitLossBeforeTax,23885350000000,-11657816000000,KRW
+2024,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,66192960000000,32765719000000,KRW
+2024,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,-38245000000,15061000000,KRW
+2024,SK하이닉스,현금흐름표,기초현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,7587329000000,4977007000000,KRW
+2024,SK하이닉스,현금흐름표,기말현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,11205117000000,7587329000000,KRW
+2024,SK하이닉스,현금흐름표,재무활동 현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,-8703940000000,5696845000000,KRW
+2024,SK하이닉스,현금흐름표,자기주식의 처분,dart_DispositionOfTreasuryShares,93829000000,24519000000,KRW
+2024,SK하이닉스,현금흐름표,주식선택권의 행사,dart_ProceedsFromExerciseOfShareOptions,0,53000000,KRW
+2024,SK하이닉스,현금흐름표,종속기업 유상증자 및 소유지분변동,-표준계정코드 미사용-,6032000000,-9220000000,KRW
+2024,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,826323000000,825575000000,KRW
+2024,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,601821000000,461466000000,KRW
+2024,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,8717964000000,20657967000000,KRW
+2024,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,16093621000000,13689433000000,KRW
+2024,SK하이닉스,현금흐름표,투자활동 현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-18004637000000,-7334727000000,KRW
+2024,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,38222000000,47564000000,KRW
+2024,SK하이닉스,현금흐름표,매각예정자산의 처분,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,145355000000,0,KRW
+2024,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,57000000,577000000,KRW
+2024,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,1499026000000,1409187000000,KRW
+2024,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,47704000000,251498000000,KRW
+2024,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,109646000000,5358000000,KRW
+2024,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,3370863000000,1469396000000,KRW
+2024,SK하이닉스,현금흐름표,사업결합으로 인한 순현금유출,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,현금흐름표,장기투자자산의 처분,-표준계정코드 미사용-,2373000000,18279000000,KRW
+2024,SK하이닉스,현금흐름표,장기투자자산의 취득,-표준계정코드 미사용-,19460000000,30537000000,KRW
+2024,SK하이닉스,현금흐름표,단기투자자산의 순증감,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,457163000000,199912000000,KRW
+2024,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,19703000000,484000000,KRW
+2024,SK하이닉스,현금흐름표,투자부동산의 처분,ifrs-full_ProceedsFromSalesOfInvestmentProperty,0,0,KRW
+2024,SK하이닉스,현금흐름표,관계기업투자의 처분,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,22510000000,8847000000,KRW
+2024,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,47126000000,1539825000000,KRW
+2024,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,717106000000,454710000000,KRW
+2024,SK하이닉스,현금흐름표,관계기업투자의 취득,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,25859000000,22765000000,KRW
+2024,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,15945534000000,8325138000000,KRW
+2024,SK하이닉스,현금흐름표,영업활동 현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,29795885000000,4278191000000,KRW
+2024,SK하이닉스,현금흐름표,영업으로부터 창출된 현금,ifrs-full_CashFlowsFromUsedInOperations,31250846000000,6688866000000,KRW
+2024,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,50731000000,35935000000,KRW
+2024,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,552088000000,1383942000000,KRW
+2024,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,1276564000000,1261540000000,KRW
+2024,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,322960000000,198872000000,KRW
+2024,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,530480000000,-29987000000,KRW
+2024,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,3617788000000,2610322000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,53503752000000,63290542000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-533000000,24187000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,53504285000000,63266355000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2269294000000,-2311409000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,1014055000000,898682000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,46729313000000,56685260000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2024,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4372559000000,4336170000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,21044422000000,-9037496000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,11299000000,-22497000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,21033123000000,-9014999000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,1518052000000,115373000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,19515071000000,-9130372000000,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2024,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,637000000,-22414000000,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,637000000,-22414000000,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,637000000,-22414000000,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,파생상품평가이익(손실),ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,1374587000000,132561000000,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,3078000000,2622000000,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,1371509000000,129939000000,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,1371509000000,129939000000,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-273610000000,-17944000000,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-273610000000,-17944000000,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-273610000000,-17944000000,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2024,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,19796902000000,-9137547000000,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,8221000000,-25119000000,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,19788681000000,-9112428000000,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,19788681000000,-9112428000000,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2024,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,145906000000,7848000000,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,145906000000,7848000000,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,145906000000,7848000000,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,73915704000000,53503752000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,12310000000,-533000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,73903394000000,53504285000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,-2191549000000,-2269294000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,2532107000000,1014055000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,65418061000000,46729313000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2024,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,4487123000000,4372559000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,-632470000000,-749294000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,1544000000,-2223000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,-634014000000,-747071000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,77745000000,42115000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,0,0,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,-826323000000,-825575000000,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,0,0,KRW
+2024,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,114564000000,36389000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권 조건변경,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,비지배지분의 감소,-표준계정코드 미사용-,0,0,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,826323000000,825575000000,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,826323000000,825575000000,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,826323000000,825575000000,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2024,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,6032000000,-9221000000,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,6032000000,-6753000000,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,-2468000000,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2024,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,-2468000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,60513000000,44138000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,-4488000000,4530000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,65001000000,39608000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,26432000000,14317000000,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2024,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,38569000000,25291000000,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,127308000000,41364000000,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,127308000000,41364000000,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,51313000000,27798000000,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2024,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,75995000000,13566000000,KRW
+2025,SK하이닉스,재무상태표,자산총계,ifrs-full_Assets,176107659000000,119855209000000,KRW
+2025,SK하이닉스,재무상태표,유동자산,ifrs-full_CurrentAssets,69458073000000,42278887000000,KRW
+2025,SK하이닉스,재무상태표,현금및현금성자산,ifrs-full_CashAndCashEquivalents,14923766000000,11205117000000,KRW
+2025,SK하이닉스,재무상태표,단기투자자산,ifrs-full_CurrentInvestments,5338768000000,569236000000,KRW
+2025,SK하이닉스,재무상태표,당기법인세자산,ifrs-full_CurrentTaxAssets,67715000000,57467000000,KRW
+2025,SK하이닉스,재무상태표,매출채권,ifrs-full_CurrentTradeReceivables,18199078000000,13019006000000,KRW
+2025,SK하이닉스,재무상태표,재고자산,ifrs-full_Inventories,14289390000000,13313937000000,KRW
+2025,SK하이닉스,재무상태표,매각예정자산,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,0,0,KRW
+2025,SK하이닉스,재무상태표,기타유동자산,ifrs-full_OtherCurrentAssets,1378035000000,1393744000000,KRW
+2025,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherCurrentFinancialAssets,195259000000,45309000000,KRW
+2025,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherCurrentReceivables,386343000000,293061000000,KRW
+2025,SK하이닉스,재무상태표,단기금융상품,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,14679719000000,2382010000000,KRW
+2025,SK하이닉스,재무상태표,비유동자산,ifrs-full_NoncurrentAssets,106649586000000,77576322000000,KRW
+2025,SK하이닉스,재무상태표,이연법인세자산,ifrs-full_DeferredTaxAssets,3660493000000,2811559000000,KRW
+2025,SK하이닉스,재무상태표,무형자산,ifrs-full_IntangibleAssetsAndGoodwill,4049402000000,4018847000000,KRW
+2025,SK하이닉스,재무상태표,관계기업 및 공동기업투자,ifrs-full_InvestmentAccountedForUsingEquityMethod,1320927000000,1940663000000,KRW
+2025,SK하이닉스,재무상태표,투자부동산,ifrs-full_InvestmentProperty,188000000,200000000,KRW
+2025,SK하이닉스,재무상태표,장기투자자산,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,14547099000000,4041276000000,KRW
+2025,SK하이닉스,재무상태표,종업원급여자산,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,1552888000000,1154255000000,KRW
+2025,SK하이닉스,재무상태표,기타비유동자산,ifrs-full_OtherNoncurrentAssets,144930000000,174142000000,KRW
+2025,SK하이닉스,재무상태표,기타금융자산,ifrs-full_OtherNoncurrentFinancialAssets,1114462000000,346749000000,KRW
+2025,SK하이닉스,재무상태표,기타수취채권,ifrs-full_OtherNoncurrentReceivables,420036000000,444286000000,KRW
+2025,SK하이닉스,재무상태표,유형자산,ifrs-full_PropertyPlantAndEquipment,77502704000000,60157474000000,KRW
+2025,SK하이닉스,재무상태표,사용권자산,ifrs-full_RightofuseAssets,2336457000000,2486871000000,KRW
+2025,SK하이닉스,재무상태표,자본총계,ifrs-full_Equity,120666751000000,73915704000000,KRW
+2025,SK하이닉스,재무상태표,지배기업의 소유지분,ifrs-full_EquityAttributableToOwnersOfParent,120516178000000,73903394000000,KRW
+2025,SK하이닉스,재무상태표,자본잉여금,dart_CapitalSurplus,8953714000000,4487123000000,KRW
+2025,SK하이닉스,재무상태표,기타자본,dart_ElementsOfOtherStockholdersEquity,-1348598000000,-2191549000000,KRW
+2025,SK하이닉스,재무상태표,기타포괄손익누계액,dart_OtherComprehensiveIncomeLossAccumulatedAmount,2676862000000,2532107000000,KRW
+2025,SK하이닉스,재무상태표,자본금,ifrs-full_IssuedCapital,3657652000000,3657652000000,KRW
+2025,SK하이닉스,재무상태표,이익잉여금,ifrs-full_RetainedEarnings,106576548000000,65418061000000,KRW
+2025,SK하이닉스,재무상태표,비지배지분,ifrs-full_NoncontrollingInterests,150573000000,12310000000,KRW
+2025,SK하이닉스,재무상태표,부채및자본총계,ifrs-full_EquityAndLiabilities,176107659000000,119855209000000,KRW
+2025,SK하이닉스,재무상태표,유동부채,ifrs-full_CurrentLiabilities,37378999000000,24965444000000,KRW
+2025,SK하이닉스,재무상태표,기타지급채무,dart_CurrentNontradePayables,6283111000000,3983543000000,KRW
+2025,SK하이닉스,재무상태표,미지급금,dart_ShortTermOtherPayables,6434144000000,6967013000000,KRW
+2025,SK하이닉스,재무상태표,차입금,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,8161757000000,5252238000000,KRW
+2025,SK하이닉스,재무상태표,리스부채,ifrs-full_CurrentLeaseLiabilities,547296000000,588355000000,KRW
+2025,SK하이닉스,재무상태표,충당부채,ifrs-full_CurrentProvisions,228937000000,270235000000,KRW
+2025,SK하이닉스,재무상태표,당기법인세부채,ifrs-full_CurrentTaxLiabilities,7023813000000,3083950000000,KRW
+2025,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherCurrentFinancialLiabilities,4913879000000,1741587000000,KRW
+2025,SK하이닉스,재무상태표,기타유동부채,ifrs-full_OtherCurrentLiabilities,937607000000,801176000000,KRW
+2025,SK하이닉스,재무상태표,매입채무,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,2848455000000,2277347000000,KRW
+2025,SK하이닉스,재무상태표,부채총계,ifrs-full_Liabilities,55440908000000,45939505000000,KRW
+2025,SK하이닉스,재무상태표,비유동부채,ifrs-full_NoncurrentLiabilities,18061909000000,20974061000000,KRW
+2025,SK하이닉스,재무상태표,기타지급채무,dart_NoncurrentNontradePayables,19970000000,51897000000,KRW
+2025,SK하이닉스,재무상태표,이연법인세부채,ifrs-full_DeferredTaxLiabilities,248395000000,217852000000,KRW
+2025,SK하이닉스,재무상태표,차입금,ifrs-full_LongtermBorrowings,14086148000000,17431495000000,KRW
+2025,SK하이닉스,재무상태표,리스부채,ifrs-full_NoncurrentLeaseLiabilities,1962647000000,2180021000000,KRW
+2025,SK하이닉스,재무상태표,충당부채,ifrs-full_NoncurrentProvisions,0,0,KRW
+2025,SK하이닉스,재무상태표,확정급여부채,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,66144000000,68090000000,KRW
+2025,SK하이닉스,재무상태표,기타금융부채,ifrs-full_OtherNoncurrentFinancialLiabilities,2487000000,5909000000,KRW
+2025,SK하이닉스,재무상태표,기타비유동부채,ifrs-full_OtherNoncurrentLiabilities,1300977000000,541770000000,KRW
+2025,SK하이닉스,재무상태표,장기미지급금,ifrs-full_OtherNoncurrentPayables,375141000000,477027000000,KRW
+2025,SK하이닉스,포괄손익계산서,영업이익(손실),dart_OperatingIncomeLoss,47206319000000,23467319000000,KRW
+2025,SK하이닉스,포괄손익계산서,기타영업외수익,dart_OtherGains,333277000000,1476579000000,KRW
+2025,SK하이닉스,포괄손익계산서,기타영업외비용,dart_OtherLosses,377973000000,167388000000,KRW
+2025,SK하이닉스,포괄손익계산서,판매비와관리비,dart_TotalSellingGeneralAdministrativeExpenses,11484471000000,8360827000000,KRW
+2025,SK하이닉스,포괄손익계산서,총포괄이익(손실),ifrs-full_ComprehensiveIncome,43017348000000,21044422000000,KRW
+2025,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,32940000000,11299000000,KRW
+2025,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,42984408000000,21033123000000,KRW
+2025,SK하이닉스,포괄손익계산서,매출원가,ifrs-full_CostOfSales,38455885000000,34364814000000,KRW
+2025,SK하이닉스,포괄손익계산서,기본주당순이익(손실),ifrs-full_BasicEarningsLossPerShare,62044,28732,KRW
+2025,SK하이닉스,포괄손익계산서,희석주당순이익(손실),ifrs-full_DilutedEarningsLossPerShare,60378,28419,KRW
+2025,SK하이닉스,포괄손익계산서,금융비용,ifrs-full_FinanceCosts,12504998000000,5707997000000,KRW
+2025,SK하이닉스,포괄손익계산서,금융수익,ifrs-full_FinanceIncome,16373480000000,4855082000000,KRW
+2025,SK하이닉스,포괄손익계산서,매출총이익(손실),ifrs-full_GrossProfit,58690790000000,31828146000000,KRW
+2025,SK하이닉스,포괄손익계산서,법인세비용(수익),ifrs-full_IncomeTaxExpenseContinuingOperations,7517650000000,4088448000000,KRW
+2025,SK하이닉스,포괄손익계산서,법인세차감후 기타포괄손익,ifrs-full_OtherComprehensiveIncome,69446000000,1247520000000,KRW
+2025,SK하이닉스,포괄손익계산서,후속적으로 당기손익으로 재분류되는 포괄손익,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,149079000000,1521130000000,KRW
+2025,SK하이닉스,포괄손익계산서,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,2118000000,637000000,KRW
+2025,SK하이닉스,포괄손익계산서,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,173701000000,1374587000000,KRW
+2025,SK하이닉스,포괄손익계산서,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-26740000000,145906000000,KRW
+2025,SK하이닉스,포괄손익계산서,후속적으로 당기손익으로 재분류되지 않는 포괄손익,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,-79633000000,-273610000000,KRW
+2025,SK하이닉스,포괄손익계산서,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-79633000000,-273610000000,KRW
+2025,SK하이닉스,포괄손익계산서,당기순이익(손실),ifrs-full_ProfitLoss,42947902000000,19796902000000,KRW
+2025,SK하이닉스,포괄손익계산서,비지배지분,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,28615000000,8221000000,KRW
+2025,SK하이닉스,포괄손익계산서,지배기업의 소유주지분,ifrs-full_ProfitLossAttributableToOwnersOfParent,42919287000000,19788681000000,KRW
+2025,SK하이닉스,포괄손익계산서,법인세비용차감전순이익(손실),ifrs-full_ProfitLossBeforeTax,50465552000000,23885350000000,KRW
+2025,SK하이닉스,포괄손익계산서,매출액,ifrs-full_Revenue,97146675000000,66192960000000,KRW
+2025,SK하이닉스,포괄손익계산서,지분법투자 관련 손익,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,-564553000000,-38245000000,KRW
+2025,SK하이닉스,현금흐름표,기초 현금및현금성자산,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,11205117000000,7587329000000,KRW
+2025,SK하이닉스,현금흐름표,기말 현금및현금성자산,dart_CashAndCashEquivalentsAtEndOfPeriodCf,14923766000000,11205117000000,KRW
+2025,SK하이닉스,현금흐름표,재무활동 현금흐름,ifrs-full_CashFlowsFromUsedInFinancingActivities,-1444992000000,-8703940000000,KRW
+2025,SK하이닉스,현금흐름표,자기주식의 처분,dart_DispositionOfTreasuryShares,65035000000,93829000000,KRW
+2025,SK하이닉스,현금흐름표,주식선택권의 행사,dart_ProceedsFromExerciseOfShareOptions,0,0,KRW
+2025,SK하이닉스,현금흐름표,종속기업 유상증자 및 소유지분변동,-표준계정코드 미사용-,0,6032000000,KRW
+2025,SK하이닉스,현금흐름표,배당금의 지급,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,1681166000000,826323000000,KRW
+2025,SK하이닉스,현금흐름표,리스부채의 상환,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,596465000000,601821000000,KRW
+2025,SK하이닉스,현금흐름표,차입금의 차입,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,8183735000000,8717964000000,KRW
+2025,SK하이닉스,현금흐름표,차입금의 상환,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,7416131000000,16093621000000,KRW
+2025,SK하이닉스,현금흐름표,투자활동 현금흐름,ifrs-full_CashFlowsFromUsedInInvestingActivities,-48054251000000,-18004637000000,KRW
+2025,SK하이닉스,현금흐름표,매각예정자산의 처분,dart_ProceedsFromSalesOfLiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale,85216000000,145355000000,KRW
+2025,SK하이닉스,현금흐름표,기타수취채권의 감소,dart_ProceedsFromSalesOfLoansAndReceivables,32880000000,38222000000,KRW
+2025,SK하이닉스,현금흐름표,기타금융자산의 감소,dart_ProceedsFromSalesOfOtherFinancialAssets,115091000000,57000000,KRW
+2025,SK하이닉스,현금흐름표,단기금융상품의 감소,dart_ProceedsFromSalesOfShortTermFinancialInstruments,6513772000000,1499026000000,KRW
+2025,SK하이닉스,현금흐름표,기타수취채권의 증가,dart_PurchaseOfLoansAndReceivables,178331000000,47704000000,KRW
+2025,SK하이닉스,현금흐름표,기타금융자산의 증가,dart_PurchaseOfOtherFinancialAssets,1105649000000,109646000000,KRW
+2025,SK하이닉스,현금흐름표,단기금융상품의 증가,dart_PurchaseOfShortTermFinancialInstruments,18804330000000,3370863000000,KRW
+2025,SK하이닉스,현금흐름표,사업결합으로 인한 현금유출,-표준계정코드 미사용-,3079783000000,0,KRW
+2025,SK하이닉스,현금흐름표,장기투자자산의 처분,-표준계정코드 미사용-,1233030000000,2373000000,KRW
+2025,SK하이닉스,현금흐름표,장기투자자산의 취득,-표준계정코드 미사용-,33956000000,19460000000,KRW
+2025,SK하이닉스,현금흐름표,단기투자자산의 순증감,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,-4552604000000,457163000000,KRW
+2025,SK하이닉스,현금흐름표,정부보조금의 수령,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,144911000000,0,KRW
+2025,SK하이닉스,현금흐름표,무형자산의 처분,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,2142000000,19703000000,KRW
+2025,SK하이닉스,현금흐름표,관계기업투자주식의 처분,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,16875000000,22510000000,KRW
+2025,SK하이닉스,현금흐름표,유형자산의 처분,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,144828000000,47126000000,KRW
+2025,SK하이닉스,현금흐름표,무형자산의 취득,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,1060419000000,717106000000,KRW
+2025,SK하이닉스,현금흐름표,관계기업투자주식의 취득,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,9000000000,25859000000,KRW
+2025,SK하이닉스,현금흐름표,유형자산의 취득,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,27518924000000,15945534000000,KRW
+2025,SK하이닉스,현금흐름표,영업활동 현금흐름,ifrs-full_CashFlowsFromUsedInOperatingActivities,53373126000000,29795885000000,KRW
+2025,SK하이닉스,현금흐름표,영업으로부터 창출된 현금흐름,ifrs-full_CashFlowsFromUsedInOperations,58904432000000,31250846000000,KRW
+2025,SK하이닉스,현금흐름표,배당금의 수취,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,960716000000,50731000000,KRW
+2025,SK하이닉스,현금흐름표,법인세의 납부,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,5891155000000,552088000000,KRW
+2025,SK하이닉스,현금흐름표,이자의 지급,ifrs-full_InterestPaidClassifiedAsOperatingActivities,938849000000,1276564000000,KRW
+2025,SK하이닉스,현금흐름표,이자의 수취,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,337982000000,322960000000,KRW
+2025,SK하이닉스,현금흐름표,현금및현금성자산의 환율변동효과,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,-155234000000,530480000000,KRW
+2025,SK하이닉스,현금흐름표,현금및현금성자산의 순증감,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,3718649000000,3617788000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,73915704000000,53503752000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,12310000000,-533000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,73903394000000,53504285000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,-2191549000000,-2269294000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,2532107000000,1014055000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,65418061000000,46729313000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,3657652000000,3657652000000,KRW
+2025,SK하이닉스,자본변동표,기초자본,dart_EquityAtBeginningOfPeriod,4487123000000,4372559000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,43017348000000,21044422000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,32940000000,11299000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,42984408000000,21033123000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,144755000000,1518052000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,42839653000000,19515071000000,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2025,SK하이닉스,자본변동표,총포괄이익(손실),ifrs-full_ComprehensiveIncome,0,0,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,2118000000,637000000,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,2118000000,637000000,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,2118000000,637000000,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,파생상품평가손익,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,173701000000,1374587000000,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,4324000000,3078000000,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,169377000000,1371509000000,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,169377000000,1371509000000,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,해외사업장환산외환차이,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-79633000000,-273610000000,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-79633000000,-273610000000,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,-79633000000,-273610000000,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2025,SK하이닉스,자본변동표,확정급여제도의 재측정요소,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,0,0,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,42947902000000,19796902000000,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,28616000000,8221000000,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,42919286000000,19788681000000,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,42919286000000,19788681000000,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2025,SK하이닉스,자본변동표,당기순이익(손실),ifrs-full_ProfitLoss,0,0,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-26740000000,145906000000,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-26740000000,145906000000,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,-26740000000,145906000000,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,관계기업의 기타포괄손익에 대한 지분,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,0,0,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,120666751000000,73915704000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,150573000000,12310000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,120516178000000,73903394000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,-1348598000000,-2191549000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,2676862000000,2532107000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,106576548000000,65418061000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,3657652000000,3657652000000,KRW
+2025,SK하이닉스,자본변동표,자본총계,ifrs-full_Equity,8953714000000,4487123000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,3733699000000,-632470000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,105323000000,1544000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,3628376000000,-634014000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,842951000000,77745000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,0,0,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,-1681166000000,-826323000000,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,0,0,KRW
+2025,SK하이닉스,자본변동표,자본에 직접 반영된 소유주와의 거래 합계,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,4466591000000,114564000000,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,446000000,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,446000000,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,연결대상 범위의 변동,dart_ChangesInConsolidatedCompanies,0,,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1681166000000,826323000000,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1681166000000,826323000000,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,1681166000000,826323000000,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2025,SK하이닉스,자본변동표,배당금의 지급,ifrs-full_DividendsPaid,0,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,73008000000,6032000000,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,6032000000,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,73008000000,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,0,0,KRW
+2025,SK하이닉스,자본변동표,종속기업 유상증자 및 소유지분변동,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,73008000000,0,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,313313000000,60513000000,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,104877000000,-4488000000,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,80477000000,38569000000,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,0,0,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,127959000000,26432000000,KRW
+2025,SK하이닉스,자본변동표,주식선택권의 부여/행사,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,208436000000,65001000000,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,5028098000000,127308000000,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,714992000000,51313000000,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,5028098000000,127308000000,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,0,0,KRW
+2025,SK하이닉스,자본변동표,자기주식의 처분,ifrs-full_SaleOrIssueOfTreasuryShares,4313106000000,75995000000,KRW
