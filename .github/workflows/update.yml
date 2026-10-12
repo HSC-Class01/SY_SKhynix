@@ -3,8 +3,11 @@ name: Update SK Hynix Financial Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 21 1 * *"
-
+    - cron: "0 0 1 * *"
+    
+permissions:
+  contents: write
+  
 jobs:
   update:
     runs-on: ubuntu-latest
