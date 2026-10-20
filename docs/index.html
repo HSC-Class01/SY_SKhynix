@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="OpenDART 기반 SK하이닉스 장기 재무분석 대시보드">
+  <title>SK hynix Financial Intelligence</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav wrap" aria-label="주요 링크">
+      <a class="brand" href="./"><span class="brand-mark">H</span> SK hynix · Financial Intelligence</a>
+      <a class="repo-link" href="https://github.com/HSC-Class01/SY_SKhynix">GitHub ↗</a>
+    </nav>
+    <div class="hero-grid wrap">
+      <div class="hero-copy">
+        <p class="eyebrow">OPEN DART · 2010—PRESENT</p>
+        <h1>공시 데이터를<br><em>한눈에.</em></h1>
+        <p class="intro">사업·반기·분기보고서를 연결해 SK하이닉스의 성장성, 수익성, 재무안정성을 하나의 흐름으로 살펴봅니다.</p>
+        <div class="status-row"><span class="live"><i></i> Monthly sync</span><span id="updatedAt">데이터 확인 중</span></div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+        <div class="signal signal-one"></div><div class="signal signal-two"></div><div class="signal signal-three"></div>
+        <span>000660</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="section" aria-labelledby="summaryTitle">
+      <div class="section-heading">
+        <div><p class="kicker">LATEST DISCLOSURE</p><h2 id="summaryTitle">최근 공시 핵심 지표</h2></div>
+        <span id="latestPeriod" class="chip">데이터 대기</span>
+      </div>
+      <div id="summaryCards" class="cards"></div>
+    </section>
+
+    <section class="section" aria-labelledby="trendTitle">
+      <div class="section-heading">
+        <div><p class="kicker">PERFORMANCE</p><h2 id="trendTitle">장기 재무 흐름</h2></div>
+        <p class="unit">금액: 조원 / 비율: %</p>
+      </div>
+      <div class="chart-grid">
+        <article class="panel chart-panel">
+          <div class="panel-title"><h3>매출과 이익</h3><div class="legend"><span class="revenue">매출</span><span class="profit">영업이익</span><span class="income">순이익</span></div></div>
+          <div id="incomeChart" class="chart" role="img" aria-label="연도별 매출, 영업이익, 순이익"></div>
+        </article>
+        <article class="panel chart-panel">
+          <div class="panel-title"><h3>수익성과 안정성</h3><div class="legend"><span class="margin">영업이익률</span><span class="debt">부채비율</span></div></div>
+          <div id="ratioChart" class="chart" role="img" aria-label="연도별 영업이익률과 부채비율"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="coverageTitle">
+      <div class="section-heading">
+        <div><p class="kicker">DATA COVERAGE</p><h2 id="coverageTitle">공시 수집 현황</h2></div>
+        <p id="coverageSummary" class="unit"></p>
+      </div>
+      <div id="coverageGrid" class="coverage-grid"></div>
+    </section>
+
+    <section class="section data-section" aria-labelledby="tableTitle">
+      <div class="section-heading">
+        <div><p class="kicker">DISCLOSURE DATA</p><h2 id="tableTitle">보고서별 상세 수치</h2></div>
+        <p class="unit">금액: 억원</p>
+      </div>
+      <p class="table-note">금액 단위: 억원 · 재무비율 단위: %</p>
+      <div id="tablesByCategory" class="tables-by-category"></div>
+      <div id="emptyState" class="empty" hidden><strong>아직 수집된 재무 데이터가 없습니다.</strong><span>Repository Secret을 등록하고 GitHub Actions에서 워크플로를 한 번 실행하세요.</span></div>
+    </section>
+
+    <section class="section peer-section" aria-labelledby="peerTitle">
+      <div class="section-heading"><div><p class="kicker">COMPARABLES</p><h2 id="peerTitle">국내 비교 기업</h2></div></div>
+      <div class="table-shell peer-table"><table><thead><tr><th>기업</th><th>종목코드</th><th>기업 구분</th><th>비교 관점</th></tr></thead><tbody id="peerTable"></tbody></table></div>
+    </section>
+  </main>
+
+  <footer><div class="wrap"><p>자료: 금융감독원 OpenDART · 연결재무제표 우선, 미제공 시 별도재무제표 사용</p><p>본 화면은 투자 조언이 아닙니다.</p></div></footer>
+  <script src="dashboard-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+

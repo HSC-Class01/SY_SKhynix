@@ -1,0 +1,1920 @@
+year,period,period_order,category,report_code,fs_div,sj_div,account_id,account_nm,thstrm_amount,thstrm_nm,currency
+2015,FY,4,annual,11011,CFS,BS,ifrs_CurrentAssets,유동자산,9760030000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_CashAndCashEquivalents,현금및현금성자산,1175719000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기금융상품,3615554000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentReceivables,매출채권,2628448000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,61613000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_Inventories,재고자산,1923376000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxAssets,당기법인세자산,1394000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentFinancialAssets,기타금융자산,,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentNonfinancialAssets,기타유동자산,353926000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssets,비유동자산,19917876000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_InvestmentAccountedForUsingEquityMethod,관계기업 및 공동기업투자,122609000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,매도가능금융자산,131354000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,기타수취채권,62919000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialAssets,기타금융자산,430000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_PropertyPlantAndEquipment,유형자산,16966252000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_GoodwillGross,무형자산,1704896000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_InvestmentProperty,투자부동산,2679000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxAssets,이연법인세자산,361204000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentNonfinancialAssets,기타비유동자산,565533000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_Assets,자산총계,29677906000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_CurrentLiabilities,유동부채,4840698000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentPayables,매입채무,791373000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,미지급금,1337803000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,1001171000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_ShortTermBorrowings,차입금,1013372000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentFinancialLiabilities,기타금융부채,,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_CurrentProvisions,유동충당부채,25276000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxLiabilities,당기법인세부채,627260000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentNonfinancialLiabilities,기타유동부채,44443000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentLiabilities,비유동부채,3449505000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,89891000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,2805223000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialLiabilities,기타금융부채,683000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_PostemploymentBenefitObligations,확정급여부채,484977000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxLiabilities,이연법인세부채,7582000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentNonfinancialLiabilities,기타비유동부채,61149000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_Liabilities,부채총계,8290203000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,21386863000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_ContributedEquity,자본금,3657652000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,자본잉여금,4143736000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타자본,-771913000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타포괄손익누계액,-1600000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_RetainedEarnings,이익잉여금(결손금),14358988000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_NoncontrollingInterests,비지배지분,840000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_Equity,자본총계,21387703000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,BS,ifrs_EquityAndLiabilities,자본과부채총계,29677906000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_Revenue,매출액,18797998000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_CostOfSales,매출원가,10515353000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_GrossProfit,매출총이익,8282645000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와경상개발비,2946545000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익(손실),5336100000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_FinanceIncome,금융수익,846752000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_FinanceCosts,금융비용,829913000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 손익,24642000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,40479000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,148939000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossBeforeTax,법인세비용차감전순이익(손실),5269121000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,945526000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLoss,당기순이익(손실),4323595000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncome,기타포괄손익,18095000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 세후기타포괄손익,-21871000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxActuarialGainsLossesOnDefinedBenefitPlans,확정급여제도의 재측정요소,-21871000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되는 세후기타포괄손익,33479000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxAvailableforsaleFinancialAssets,매도가능금융자산평가손익,,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,33479000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,6487000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncome,총포괄손익 소계,4341690000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToOwnersOfParent,지배기업의 소유지분,4322356000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToNoncontrollingInterests,비지배지분,1239000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유지분,4340700000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,990000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_BasicEarningsLossPerShare,기본주당이익(원),6002,2015년,KRW
+2015,FY,4,annual,11011,CFS,CIS,ifrs_DilutedEarningsLossPerShare,희석주당이익(원),6002,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,9319520000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_AdjustmentsForReconcileProfitLoss,영업으로부터 창출된 현금흐름,10357267000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_InterestReceivedClassifiedAsOperatingActivities,이자수취,51610000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_InterestPaidClassifiedAsOperatingActivities,이자지급,124304000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,17045000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),982098000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-7125530000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 순증감,39533000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,기타수취채권의 감소,10692000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,기타수취채권의 증가,14134000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,매도가능금융자산의 처분,1319000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 취득,5359000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유입,1672000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유출,2088000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,220097000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,6774625000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,7963000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,623743000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,매각예정자산의 처분,22630000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금수령,406000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 현금유출,,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 처분으로 인한 현금유출,,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,9893000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-1462257000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 증가,3933056000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,4405023000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,771889000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,218401000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,7225000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,ifrs_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증가(감소),738958000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,436731000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,1175719000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,10276904000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-41815000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-24000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,18036303000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-150000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,18036453000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),4322356000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),4322356000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),4323595000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),1239000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-21871000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-21871000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-21871000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,6487000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,6487000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,6487000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,33479000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,-249000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,33728000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,33728000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,4300485000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,40215000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,4340700000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,4341690000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,990000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-218401000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-218401000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-218401000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,-771889000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,-771889000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,-771889000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-218401000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-771889000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-990290000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-990290000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,4143736000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,3657652000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,14358988000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-771913000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,21386863000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,840000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,21387703000000,2015년,KRW
+2015,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-1600000000,2015년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CurrentAssets,유동자산,9838982000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CashAndCashEquivalents,현금및현금성자산,613786000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기금융상품,3521893000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentReceivables,매출채권,3251652000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,25611000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_Inventories,재고자산,2026198000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxAssets,당기법인세자산,489000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentNonfinancialAssets,기타유동자산,399353000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssets,비유동자산,22377044000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_InvestmentAccountedForUsingEquityMethod,관계기업 및 공동기업투자,131016000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,매도가능금융자산,147779000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,기타수취채권,39490000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialAssets,기타금융자산,423000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_PropertyPlantAndEquipment,유형자산,18777402000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_GoodwillGross,무형자산,1915591000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_InvestmentProperty,투자부동산,2573000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxAssets,이연법인세자산,792368000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentNonfinancialAssets,기타비유동자산,570402000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_Assets,자산총계,32216026000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CurrentLiabilities,유동부채,4160849000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentPayables,매입채무,696144000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,미지급금,1606417000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,685154000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_ShortTermBorrowings,차입금,704860000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentFinancialLiabilities,기타금융부채,288000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CurrentProvisions,유동충당부채,42822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxLiabilities,당기법인세부채,374666000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentNonfinancialLiabilities,기타유동부채,50498000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentLiabilities,비유동부채,4031647000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,27426000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,3631118000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialLiabilities,기타금융부채,,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_PostemploymentBenefitObligations,확정급여부채,306488000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxLiabilities,이연법인세부채,4732000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentNonfinancialLiabilities,기타비유동부채,61883000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_Liabilities,부채총계,8192496000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,24016955000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_ContributedEquity,자본금,3657652000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,자본잉여금,4143736000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타자본,-771913000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타포괄손익누계액,-79103000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_RetainedEarnings,이익잉여금(결손금),17066583000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_NoncontrollingInterests,비지배지분,6575000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_Equity,자본총계,24023530000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,BS,ifrs_EquityAndLiabilities,자본과부채총계,32216026000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_Revenue,매출액,17197975000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_CostOfSales,매출원가,10787139000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_GrossProfit,매출총이익,6410836000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와경상개발비,3134090000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익(손실),3276746000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_FinanceIncome,금융수익,814892000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_FinanceCosts,금융비용,846328000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법 손익,22752000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,52371000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,103979000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossBeforeTax,법인세비용차감전순이익(손실),3216454000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,255971000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLoss,당기순이익(손실),2960483000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncome,기타포괄손익,28844000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 세후기타포괄손익,106822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxActuarialGainsLossesOnDefinedBenefitPlans,확정급여제도의 재측정요소,106822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되는 세후기타포괄손익,-82066000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxAvailableforsaleFinancialAssets,매도가능금융자산평가손익,,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,-82066000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,4088000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncome,총포괄손익 소계,2989327000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToOwnersOfParent,지배기업의 소유지분,2953774000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToNoncontrollingInterests,비지배지분,6709000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유지분,2982703000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,6624000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_BasicEarningsLossPerShare,기본주당이익(원),4184,2016년,KRW
+2016,FY,4,annual,11011,CFS,CIS,ifrs_DilutedEarningsLossPerShare,희석주당이익(원),4184,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,5548922000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_AdjustmentsForReconcileProfitLoss,영업으로부터 창출된 현금흐름,6486781000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_InterestReceivedClassifiedAsOperatingActivities,이자수취,42895000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_InterestPaidClassifiedAsOperatingActivities,이자지급,125818000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,20744000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),875680000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-6230451000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기금융상품의 순증감,109803000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,기타수취채권의 감소,15422000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,기타수취채권의 증가,13613000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,매도가능금융자산의 처분,2651000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 취득,19085000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,5000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,2000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유입,1077000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유출,1525000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,162120000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,5956354000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,1585000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,530375000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,매각예정자산의 처분,,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금수령,133000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 현금유출,,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 처분으로 인한 현금유출,,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,2293000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,116876000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,2080343000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,1610466000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,353001000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,2720000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,ifrs_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증가(감소),-561933000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,1175719000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,613786000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,14358988000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-1600000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-771913000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,21387703000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,840000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,21386863000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),2953774000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),2953774000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),2960483000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익(손실),6709000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,106822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,106822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,106822000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,4088000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,4088000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,4088000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,-82066000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,-85000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,-81981000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업환산손익,-81981000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,3060596000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,-77893000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,2982703000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,2989327000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,dart_ComprehensiveIncomeForStatementOfChangesInEquity,총포괄손익,6624000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-353001000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-353001000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,배당금의 지급,-353001000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업 취득을 위한 신주교부,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,전환사채의 전환,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식 취득,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,390000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,390000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,-889000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,-499000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-353500000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,390000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-889000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-353001000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자본에직접반영된 소유주와의 거래 소계,-352611000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-79103000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,17066583000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,3657652000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,4143736000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-771913000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,24016955000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,6575000000,2016년,KRW
+2016,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,24023530000000,2016년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CurrentAssets,유동자산,17310444000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CashAndCashEquivalents,현금및현금성자산,2949991000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,5604663000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,5552795000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentReceivables,기타수취채권,37613000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_Inventories,재고자산,2640439000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxAssets,당기법인세자산,1305000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,523638000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssets,비유동자산,28108020000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_InvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 관계기업 및 공동기업투자",359864000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_NonCurrentAvailableForSaleFinancialAssets,매도가능금융자산,43226000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,기타수취채권,42410000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialAssets,기타금융자산,273000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_PropertyPlantAndEquipment,유형자산,24062601000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_IntangibleAssetsOtherThanGoodwill,무형자산,2247290000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_InvestmentProperty,투자부동산,2468000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxAssets,이연법인세자산,599783000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,750105000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_Assets,자산총계,45418464000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CurrentLiabilities,유동부채,8116133000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentPayables,매입채무,758578000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,단기미지급금,2724547000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_ShortTermAccruedExpenses,기타지급채무,1340225000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_ShorttermBorrowings,차입금,773780000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentFinancialLiabilities,기타금융부채,,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CurrentProvisions,충당부채,81351000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxLiabilities,당기법인세부채,2385876000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,51776000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentLiabilities,비유동부채,3481412000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialLiabilities,기타지급채무,3412000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,장기차입금,3397490000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_PostemploymentBenefitObligations,확정급여부채,6096000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxLiabilities,이연법인세부채,5554000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,68860000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_Liabilities,부채총계,11597545000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_EquityAttributableToOwnersOfParent,지배기업의 소유지분,33815280000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_IssuedCapital,자본금,3657652000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4143736000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-771100000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-502264000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_RetainedEarnings,이익잉여금,27287256000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_NoncontrollingInterests,비지배지분,5639000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_Equity,자본총계,33820919000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,BS,ifrs_EquityAndLiabilities,자본과부채총계,45418464000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_Revenue,매출액,30109434000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_CostOfSales,매출원가,12701843000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_GrossProfit,매출총이익,17407591000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,3686265000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,13721326000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_FinanceIncome,금융수익,996468000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_FinanceCosts,금융비용,1249617000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,12367000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,77882000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,118860000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossBeforeTax,법인세비용차감전순이익,13439566000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,2797347000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLoss,당기순이익,10642219000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncome,법인세차감후 기타포괄손익,-422042000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,2762000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-387683000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,매도가능금융자산평가손익,-10735000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-26386000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncome,총포괄이익,10220177000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,10641512000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToNoncontrollingInterests,비지배지분,707000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,10221113000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-936000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_BasicEarningsLossPerShare,기본주당순이익,15073,2017년,KRW
+2017,FY,4,annual,11011,CFS,CIS,ifrs_DilutedEarningsLossPerShare,희석주당순이익,15072,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,14690614000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_ProfitLossForStatementOfCashFlows,영업으로부터 창출된 현금흐름,15373261000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,41680000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_InterestPaidClassifiedAsOperatingActivities,이자의 지급,120332000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,14841000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,618836000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-11919162000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 순증감,2119004000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,308000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,167000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,18437000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,22009000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,매도가능금융자산의 처분,3431000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_PurchaseOfAvailableForSaleFinancialAssets,매도가능금융자산의 취득,26204000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유입,902000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유출,1201000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,244897000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,9128303000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,3249000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,784911000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,5900000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,114487000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-351906000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,782330000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,710635000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,423601000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,-83341000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,ifrs_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,2336205000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초 현금및현금성자산,613786000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,2949991000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,6575000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,17066583000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-79103000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,24023530000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,24016955000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-771913000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,10641512000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,10641512000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,707000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,10642219000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,2762000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,2762000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,2762000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,-10735000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,-10735000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,매도가능금융자산평가손익,-10735000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,-26386000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,-26386000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,-26386000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,-386040000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,-386040000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,-387683000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,-1643000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,423601000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,423601000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,423601000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,813000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,813000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,813000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,dart_PurchaseDispostionOfAssociatesOrJointVenture,종속기업의 처분,,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,4143736000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,33815280000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,5639000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,33820919000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,3657652000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,27287256000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-502264000000,2017년,KRW
+2017,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-771100000000,2017년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CurrentAssets,유동자산,19894146000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CashAndCashEquivalents,현금및현금성자산,2349319000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,523579000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기투자자산,5496452000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,6319994000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentReceivables,기타수취채권,18392000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_Inventories,재고자산,4422733000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxAssets,당기법인세자산,22252000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,741425000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentAssets,비유동자산,43764189000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_InvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 관계기업 및 공동기업투자",562194000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_NonCurrentAvailableForSaleFinancialAssets,장기투자자산,4325550000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,기타수취채권,68514000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialAssets,기타금융자산,310000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_PropertyPlantAndEquipment,유형자산,34952617000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_IntangibleAssetsOtherThanGoodwill,무형자산,2678770000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_InvestmentProperty,투자부동산,1400000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxAssets,이연법인세자산,544016000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,종업원급여자산,5164000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,625654000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_Assets,자산총계,63658335000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CurrentLiabilities,유동부채,13031852000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_TradeAndOtherCurrentPayables,매입채무,1096380000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,단기미지급금,3681933000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,1879520000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_ShorttermBorrowings,차입금,1614303000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_OtherCurrentFinancialLiabilities,기타금융부채,,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CurrentProvisions,충당부채,56208000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_CurrentTaxLiabilities,당기법인세부채,4555670000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,147838000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_NoncurrentLiabilities,비유동부채,3774152000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_OtherNoncurrentFinancialLiabilities,기타지급채무,15231000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,장기차입금,3667634000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_PostemploymentBenefitObligations,확정급여부채,5387000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_DeferredTaxLiabilities,이연법인세부채,6597000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,79303000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_Liabilities,부채총계,16806004000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_EquityAttributableToOwnersOfParent,지배기업의 소유지분,46845719000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_IssuedCapital,자본금,3657652000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4143736000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2506451000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-482819000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_RetainedEarnings,이익잉여금,42033601000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_NoncontrollingInterests,비지배지분,6612000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_Equity,자본총계,46852331000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,BS,ifrs_EquityAndLiabilities,자본과부채총계,63658335000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_Revenue,매출액,40445066000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_CostOfSales,매출원가,15180838000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_GrossProfit,매출총이익,25264228000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,4420478000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,20843750000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_FinanceIncome,금융수익,1691955000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_FinanceCosts,금융비용,1142134000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,13007000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,112810000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,178358000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossBeforeTax,법인세비용차감전순이익,21341030000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_IncomeTaxExpenseContinuingOperations,법인세비용,5801046000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLoss,당기순이익,15539984000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_OtherComprehensiveIncome,법인세차감후 기타포괄손익,-67219000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-77029000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),7534000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,장기투자자산평가손익,,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,2276000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncome,총포괄이익,15472765000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,15540111000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-127000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,15471792000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,973000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_BasicEarningsLossPerShare,기본주당순이익,22255,2018년,KRW
+2018,FY,4,annual,11011,CFS,CIS,ifrs_DilutedEarningsLossPerShare,희석주당순이익,22252,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,22227199000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업으로부터 창출된 현금흐름,25825017000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,81323000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_InterestPaidClassifiedAsOperatingActivities,이자의 지급,126029000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,15258000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,3568370000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-21428749000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 순증감,-4174667000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기투자자산의 순증감,4519395000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,116000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 취득,100000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,21824000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,48424000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,장기투자자산의 처분,7118000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_PurchaseOfAvailableForSaleFinancialAssets,장기투자자산의 취득,4012799000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유입,,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities,파생상품거래로 인한 현금유출,,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,131754000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,16036146000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,2532000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,933139000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,17081000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,관계기업투자의 취득,-200508000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업의 취득,-33330000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-1395317000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,3125721000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,2078522000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,1736514000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,706002000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,-3805000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,ifrs_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,-600672000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초 현금및현금성자산,2949991000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,2349319000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,5639000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,27276521000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-491529000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,33820919000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,33815280000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-771100000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,15540111000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,15540111000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,-127000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_ProfitLoss,당기순이익,15539984000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-77029000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-77029000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-77029000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,2276000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,2276000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,2276000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,6434000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,6434000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,7534000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,1100000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,706002000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,706002000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_DividendsPaid,배당금지급,706002000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,-1736514000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,-1736514000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 거래로 인한 증감,-1736514000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1163000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1163000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1163000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,종속기업의 처분,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,42033601000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,3657652000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,4143736000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-2506451000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,-482819000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,6612000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,46852331000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,ifrs_Equity,기말자본,46845719000000,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,기업회계기준서 제 1109호 최초적용에 따른 조정,,2018년,KRW
+2018,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,기업회계기준서 제 1109호 최초적용에 따른 조정,,2018년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,14457602000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,2306070000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,298350000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기투자자산,1390293000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,4261674000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_TradeAndOtherCurrentReceivables,기타수취채권,23508000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,5295835000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,199805000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,682037000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,30000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,50331892000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업 및 공동기업투자,768767000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_LongTermTradeReceivablesGross,장기매출채권,44775000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_NonCurrentAvailableForSaleFinancialAssets,장기투자자산,4381812000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_LongTermTradeAndOtherNonCurrentReceivablesGross,기타수취채권,109079000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,901000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,39949940000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,1250576000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,2571049000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,258000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,670866000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,종업원급여자산,3406000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,580463000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,64789494000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,7874033000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_TradeAndOtherCurrentPayables,매입채무,1042542000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,2367673000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,1257895000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermBorrowings,차입금,2737770000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,10701000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,89217000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,205238000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,162997000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,8972266000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타지급채무,18266000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,7785736000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_PostemploymentBenefitObligations,확정급여부채,53624000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,15743000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,995592000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융부채,15532000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,87773000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,16846299000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,47928415000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4143736000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2504713000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-298935000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,42930675000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,14780000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,47943195000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,64789494000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,26990733000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,18825275000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익,8165458000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,5452740000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,2712718000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,1247640000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,1514869000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,22633000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,88179000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,113575000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,2442726000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,426335000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익,2016391000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,94023000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-90211000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),150037000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,파생금융상품평가손익,12753000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,장기투자자산평가손익,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,21444000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄손익,2110414000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,2013288000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,3103000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,2106961000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,3453000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당순이익,2943,2019년,KRW
+2019,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익,2943,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,6483188000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업으로부터 창출된 현금흐름,11822354000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,30543000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,231382000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,14891000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,5153218000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-10450936000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 순증감,-225447000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기투자자산의 순증감,-4164793000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,627000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,13057000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,57482000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,장기투자자산의 처분,4316000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_PurchaseOfAvailableForSaleFinancialAssets,장기투자자산의 취득,81447000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,파생상품거래로 인한 현금유입,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,파생상품거래로 인한 현금유출,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,53840000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,13920244000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,183000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,673356000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,관계기업투자의 취득,-176954000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업투자의 취득,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,-2462000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,3903216000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,9833882000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,4585425000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,323953000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,1026003000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,비지배지분의 증가,4715000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,21283000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,-43249000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초 현금및현금성자산,2349319000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,2306070000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,42033601000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-482819000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,46852331000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,6612000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,46845719000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2506451000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2013288000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2016391000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,3103000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2013288000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-90211000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-90211000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInAccountingPolicies,확정급여제도의 재측정요소,-90211000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,장기투자자산평가손익,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,21444000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,21444000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_OtherComprehensiveIncomeForStatementOfChangesInEquity,관계기업의 기타포괄손익에 대한 지분,21444000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,파생상품평가손익,12753000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,파생상품평가손익,12753000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,파생상품평가손익,12753000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,149687000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,149687000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,150037000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ChangesInForeignExchangeRates,해외사업장환산외환차이,350000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 취득,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 취득,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식 취득,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 증가,4715000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 증가,4715000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금지급,1026003000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금지급,1026003000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금지급,1026003000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1738000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1738000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,dart_ShareBasedPaymentTransactions,주식선택권 부여,1738000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,42930675000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,3657652000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,4143736000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,14780000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,47928415000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,47943195000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-2504713000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-298935000000,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,기업회계기준서 제 1109호 최초적용에 따른 조정,,2019년,KRW
+2019,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,기업회계기준서 제 1109호 최초적용에 따른 조정,,2019년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,16570953000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,2975989000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,436708000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기투자자산,1535518000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,4931322000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,69194000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,6136318000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,202000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,485672000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,30000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,54602900000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 관계기업 및 공동기업투자",1166244000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_LongTermTradeReceivablesGross,장기매출채권,,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,장기투자자산,6139627000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,75589000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,353000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,41230562000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,1707645000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,3400278000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,209417000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,556194000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,종업원급여자산,61962000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,55029000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,71173853000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,9072360000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_ShortTermTradePayables,매입채무,1046159000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,2348909000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,1367193000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermBorrowings,차입금,3114250000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,13797000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,636649000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,347464000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,197395000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융부채,544000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,10192396000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_LongTermOtherPayablesGross,장기미지급금,272396000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,29923000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,8137398000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_PresentValueOfDefinedBenefitObligation,확정급여부채,2739000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,266640000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,1296252000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,88121000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,98927000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,19264756000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,51888541000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4143736000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2503122000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,-405453000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,46995728000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,20556000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,51909097000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,71173853000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,31900418000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,21089789000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익,10810629000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,5798005000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,5012624000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,3327905000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,1980411000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,-36279000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외수익,84773000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외비용,171575000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,6237037000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,1478123000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익,4758914000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,-107378000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,1266000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-47407000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,파생상품평가손익,-417000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-60820000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄손익,4651536000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,4755102000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,3812000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,4649850000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,1686000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당순이익,6952,2020년,KRW
+2020,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익,6950,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동 현금흐름,12314571000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업으로부터 창출된 현금흐름,12916771000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,40635000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,288565000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,16365000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,370635000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동 현금흐름,-11840393000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,913591000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,1054401000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기투자자산의 순증감,-115122000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,773000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,205000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,36722000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,238727000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,장기투자자산의 처분,708000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,장기투자자산의 취득,93846000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,59089000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,10068662000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,695000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,800729000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업양도로 인한 현금 유입,2958000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,483237000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자의 취득,,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,252054000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,5173016000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,3921310000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,319740000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,684002000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,비지배지분의 증가,4090000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_AcquisitionOfTreasuryShares,자기주식의 취득,,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,-56313000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,669919000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,2306070000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,2975989000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,14780000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,47921102000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2504713000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,47935882000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,42923362000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-298935000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,4755102000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,4755102000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,3812000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,4758914000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,1266000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,1266000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,1266000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,-60820000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,-60820000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,-60820000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생상품평가손익,-417000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생상품평가손익,-417000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생상품평가손익,-417000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,-45281000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,-45281000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,-47407000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,-2126000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식의 취득,,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식의 취득,,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,dart_TreasuryShareTransactions,자기주식의 취득,,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 증가,4090000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,비지배지분의 증가,4090000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,684002000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,684002000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,684002000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여,1591000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여,1591000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여,1591000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,3657652000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,4143736000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,20556000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,51888541000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,46995728000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-405453000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-2503122000000,2020년,KRW
+2020,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,51909097000000,2020년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,26870451000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,5057982000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,474637000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기투자자산,3139923000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,8267111000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,171464000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,8916605000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,4113000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,838586000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,30000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,69516023000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업 및 공동기업투자,1410428000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_LongTermTradeReceivablesGross,장기매출채권,,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,장기투자자산,6665513000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,339517000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,91139000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,53034270000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,1597344000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,5065132000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,164197000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,590244000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,종업원급여자산,428962000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,129277000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,96386474000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,14769356000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_ShortTermTradePayables,매입채무,1359247000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,4640677000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,2278316000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermBorrowings,차입금,2880763000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,10167000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,3002734000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,302059000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,294780000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융부채,613000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,19426060000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_LongTermOtherPayablesGross,장기미지급금,2699071000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,32433000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,14743046000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_PresentValueOfDefinedBenefitObligation,확정급여부채,1200000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,627995000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,1223703000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,4606000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,94006000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,34195416000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,62157072000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4334643000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2294562000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,675271000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,55784068000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,33986000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,62191058000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,96386474000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,42997792000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,24045600000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익,18952192000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,6541852000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,12410340000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,2377516000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,1469860000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,162280000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외수익,116135000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외비용,180424000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,13415987000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,3799799000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익,9616188000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,1071330000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-13694000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,963288000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,파생상품평가손익,10143000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,111593000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄이익,10687518000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,9602316000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,13872000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,10669346000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,18172000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당순이익,13989,2021년,KRW
+2021,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익,13984,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동 현금흐름,19797648000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업으로부터 창출된 현금흐름,20951478000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,17341000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,240942000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,84679000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,1014908000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동 현금흐름,-22392277000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,2572550000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,2600586000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기투자자산의 순증감,-1548448000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,213000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,29830000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,47027000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,79537000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,장기투자자산의 처분,45972000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,장기투자자산의 취득,130318000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,79940000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,12486635000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,2073000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,973893000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업양도로 인한 현금 유입,3000000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiaries,관계기업투자의 취득,44862000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,7250087000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 취득에 따른 순현금유입,1144000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,4492313000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,8933737000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,3320911000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,323975000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,805024000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,비지배지분의 증가,,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_DispositionOfTreasuryShares,자기주식의 처분,8484000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,2000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,184309000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,2081993000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,2975989000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,5057982000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,51888541000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2503122000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,20556000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,51909097000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,46995728000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-405453000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4143736000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,9602316000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,9602316000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,13872000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,9616188000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-13694000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-13694000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,-13694000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,111593000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,111593000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,111593000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가손익,10143000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가손익,10143000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가손익,10143000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,958988000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,4300000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,963288000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,958988000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 증가,,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 증가,,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,800282000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,800282000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,4742000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,805024000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,191247000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,206308000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,397555000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,397555000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,1912000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,-340000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,2252000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,1912000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,675271000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,55784068000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,3657652000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,4334643000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,62157072000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,33986000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,62191058000000,2021년,KRW
+2021,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-2294562000000,2021년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,28733332000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,4977007000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_ShortTermDepositsNotClassifiedAsCashEquivalents,단기금융상품,415625000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,단기투자자산,1016360000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_ShortTermTradeReceivable,매출채권,5186054000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,272512000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,15664707000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,14523000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_OtherCurrentAssets,기타유동자산,1186544000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,75138180000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentsInSubsidiariesJointVenturesAndAssociates,관계기업 및 공동기업투자,1352845000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,장기투자자산,5733544000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타수취채권,354167000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융자산,115712000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,60228528000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,1779985000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,3512107000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,223000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,657115000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,종업원급여자산,1332253000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentAssets,기타비유동자산,71701000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,103871512000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,19843696000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_ShortTermTradePayables,매입채무,2186230000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,5445335000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,3024648000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermBorrowings,차입금,7423247000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,251889000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,696553000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,280873000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_OtherCurrentLiabilities,기타유동부채,534335000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타금융부채,586000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,20737274000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_LongTermOtherPayablesGross,장기미지급금,2958659000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,기타지급채무,28083000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_LongTermBorrowingsGross,차입금,15571357000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentProvisions,충당부채,1404000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_PresentValueOfDefinedBenefitObligation,확정급여부채,69952000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,382477000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,1516208000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,4290000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_OtherNonCurrentLiabilities,기타비유동부채,204844000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,40580970000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,63266355000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4336170000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2311409000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,898682000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,56685260000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,24187000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,63290542000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,103871512000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,44621568000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,28993713000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익,15627855000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,8818438000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익,6809417000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,3714278000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,5091553000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,지분법투자 관련 손익,131186000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외수익,241371000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,기타영업외비용,1801919000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익,4002780000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용,1761111000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익,2241669000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,580499000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,349453000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,154321000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,-표준계정코드 미사용-,파생상품평가이익,5725000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,71000000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄이익,2822168000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,2229560000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,12109000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,2802424000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,19744000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당순이익,3242,2022년,KRW
+2022,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익,3242,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동 현금흐름,14780517000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,영업으로부터 창출된 현금흐름,19083888000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,77430000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,494513000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,93067000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,3979355000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동 현금흐름,-17883746000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,2022053000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,1966360000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,단기투자자산의 순증감,2195111000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,29950000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 처분(취득),600000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,39051000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,72248000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,장기투자자산의 처분,4306000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,장기투자자산의 취득,115537000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,323718000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,19010261000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,1018000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,738621000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,263211000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,관계기업투자의 처분,209843000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_PurchaseOfInvestmentsInSubsidiaries,관계기업투자의 취득,40717000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,1027663000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,기타,,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동 현금흐름,2821796000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,11917454000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,7124565000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,301858000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,1680905000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_DispositionOfTreasuryShares,자기주식의 처분,11653000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,17000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,비지배지분의 증가,,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,200458000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,-80975000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초 현금및현금성자산,5057982000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,4977007000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,55784068000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4334643000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,62191058000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,33986000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,62157072000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2294562000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,675271000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2229560000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2241669000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,12109000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익,2229560000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,349453000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,349453000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,확정급여제도의 재측정요소,349453000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,71000000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,71000000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,관계기업의 기타포괄손익에 대한 지분,71000000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가이익,5725000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가이익,5725000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,dart_ChangesInReserveOfGainsAndLossesOnHedgingInstrumentsThatHedgeInvestmentsInEquityInstruments,파생금융상품평가이익,5725000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,154321000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,7635000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,146686000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,해외사업장환산외환차이,146686000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,-26459000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,-26459000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,3084000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1677821000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1677821000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1680905000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,1527000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,1731000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,3258000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,3258000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,7241000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,7241000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,7241000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,-25819000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,-25819000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,-25819000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,898682000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,56685260000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,3657652000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,4336170000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,63266355000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,24187000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,63290542000000,2022년,KRW
+2022,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,기말자본,-2311409000000,2022년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,100330165000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,30468100000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,-표준계정코드 미사용-,매각예정자산,29441000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,7587329000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentInvestments,단기투자자산,860972000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,69916000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTradeReceivables,매출채권,6600273000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,13480659000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentAssets,기타유동자산,925502000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialAssets,기타금융자산,83750000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentReceivables,기타수취채권,357641000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,472617000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,69862065000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,2989472000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,3834567000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업 및 공동기업투자,1367348000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,211000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,장기투자자산,4105704000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,종업원급여자산,1404014000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentAssets,기타비유동자산,217822000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,68217000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentReceivables,기타수취채권,475013000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,52704853000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,2694844000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,53503752000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,53504285000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4372559000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2269294000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,1014055000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,46729313000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,-533000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,100330165000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,21007810000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_CurrentNontradePayables,기타지급채무,1688631000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,3293308000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,차입금,9857189000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,631497000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,286517000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,43890000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,기타금융부채,1478980000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentLiabilities,기타 유동부채,1882261000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,매입채무,1845537000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,46826413000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,25818603000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,dart_NoncurrentNontradePayables,기타지급채무,96567000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,114396000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_LongtermBorrowings,차입금,19611443000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,2398377000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentProvisions,충당부채,1603000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,확정급여부채,63932000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,3247000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentLiabilities,기타 비유동 부채,385402000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentPayables,장기미지급금,3143636000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익(손실),-7730313000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,623867000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,735065000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,7196865000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄손익,-9037496000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,-22497000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,-9014999000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,33299167000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-13244,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-13244,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,6093167000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,2261801000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익,-533448000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-2520269000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,100051000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익,-22414000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,132561000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,7848000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여부채의 재측정요소,-17944000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익(손실),-9137547000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,-25119000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,-9112428000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-11657816000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,32765719000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법투자 관련 손익,15061000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,4977007000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,7587329000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,5696845000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_DispositionOfTreasuryShares,자기주식의 처분,24519000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,461466000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,53000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 유상증자 및 소유지분변동,-9220000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,825575000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,20657967000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,13689433000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-7334727000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,47564000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,577000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,1409187000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,251498000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 처분(취득),5358000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,1469396000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 처분,18279000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 취득,30537000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,단기투자자산의 순증감,199912000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,기타,,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,484000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,관계기업투자의 처분,8847000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,1539825000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,454710000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,관계기업투자의 취득,22765000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,8325138000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,4278191000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,6688866000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,35935000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,1383942000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,1261540000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,198872000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-29987000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),2610322000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_DecreaseInNoncontrollingInterests,비지배지분의 감소,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_DecreaseInNoncontrollingInterests,비지배지분의 감소,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4336170000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2311409000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,898682000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,56685260000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,24187000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,63290542000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,63266355000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,41364000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,41364000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,27798000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,자기주식의 처분,13566000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,4530000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,44138000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,39608000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,25291000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권의 부여/행사,14317000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,825575000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,825575000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,825575000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,53503752000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,-533000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,4372559000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,3657652000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,46729313000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,1014055000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,-2269294000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,53504285000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),-2468000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),-6753000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),-9221000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,지배력을 상실하지 않는 종속기업에 대한 소유지분의 변동에 따른 증가(감소),-2468000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,파생금융상품평가이익,-22414000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,파생금융상품평가이익,-22414000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxCashFlowHedges,파생금융상품평가이익,-22414000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,129939000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,2622000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,132561000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxExchangeDifferencesOnTranslation,해외사업장환산외환차이,129939000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여부채의 재측정요소,-17944000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여부채의 재측정요소,-17944000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여부채의 재측정요소,-17944000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),-9137547000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),-25119000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),-9112428000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),-9112428000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,7848000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,7848000000,2023년,KRW
+2023,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,7848000000,2023년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,119855209000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,42278887000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,11205117000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentInvestments,단기투자자산,569236000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,57467000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTradeReceivables,매출채권,13019006000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,13313937000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentAssets,기타유동자산,1393744000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialAssets,기타금융자산,45309000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentReceivables,기타수취채권,293061000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,2382010000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,77576322000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,2811559000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,4018847000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업 및 공동기업투자,1940663000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,200000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,장기투자자산,4041276000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,종업원급여자산,1154255000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentAssets,기타비유동자산,174142000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,346749000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentReceivables,기타수취채권,444286000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,60157474000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,2486871000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,73915704000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,73903394000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,4487123000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-2191549000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,2532107000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,65418061000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,12310000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,119855209000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,24965444000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_CurrentNontradePayables,기타지급채무,3983543000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,6967013000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,차입금,5252238000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,588355000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,270235000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,3083950000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,기타금융부채,1741587000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentLiabilities,기타 유동부채,801176000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,매입채무,2277347000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,45939505000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,20974061000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,dart_NoncurrentNontradePayables,기타지급채무,51897000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,217852000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_LongtermBorrowings,차입금,17431495000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,2180021000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentProvisions,충당부채,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,확정급여부채,68090000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,5909000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentLiabilities,기타비유동부채,541770000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentPayables,장기미지급금,477027000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익(손실),23467319000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,1476579000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,167388000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,8360827000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄이익(손실),21044422000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,11299000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,21033123000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,34364814000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),28732,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),28419,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,5707997000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,4855082000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익(손실),31828146000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),4088448000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,1247520000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),637000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,1374587000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,145906000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-273610000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익(손실),19796902000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,8221000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,19788681000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),23885350000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,66192960000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법투자 관련 손익,-38245000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,7587329000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,11205117000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동 현금흐름,-8703940000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_DispositionOfTreasuryShares,자기주식의 처분,93829000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 유상증자 및 소유지분변동,6032000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,826323000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,601821000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,8717964000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,16093621000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동 현금흐름,-18004637000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,38222000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,145355000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,57000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,1499026000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,47704000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,109646000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,3370863000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 순현금유출,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 처분,2373000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 취득,19460000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,단기투자자산의 순증감,457163000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,19703000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,관계기업투자의 처분,22510000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,47126000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,717106000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,관계기업투자의 취득,25859000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,15945534000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동 현금흐름,29795885000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperations,영업으로부터 창출된 현금,31250846000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,50731000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,552088000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,1276564000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,322960000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,530480000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,3617788000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,53503752000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-533000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,53504285000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2269294000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,1014055000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,46729313000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4372559000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),21044422000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),11299000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),21033123000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),1518052000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),19515071000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),637000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),637000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),637000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,1374587000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,3078000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,1371509000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,1371509000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-273610000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-273610000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-273610000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),19796902000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),8221000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),19788681000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),19788681000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,145906000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,145906000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,145906000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,73915704000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,12310000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,73903394000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,-2191549000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,2532107000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,65418061000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,3657652000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,4487123000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,-632470000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,1544000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,-634014000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,77745000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,-826323000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,114564000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,주식선택권 조건변경,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,-표준계정코드 미사용-,비지배지분의 감소,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,826323000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,826323000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,826323000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,6032000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,6032000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,60513000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,-4488000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,65001000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,26432000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,38569000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,127308000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,127308000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,51313000000,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2024년,KRW
+2024,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,75995000000,2024년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_Assets,자산총계,176107659000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentAssets,유동자산,69458073000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CashAndCashEquivalents,현금및현금성자산,14923766000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentInvestments,단기투자자산,5338768000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxAssets,당기법인세자산,67715000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTradeReceivables,매출채권,18199078000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_Inventories,재고자산,14289390000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정자산,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentAssets,기타유동자산,1378035000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialAssets,기타금융자산,195259000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentReceivables,기타수취채권,386343000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,14679719000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentAssets,비유동자산,106649586000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxAssets,이연법인세자산,3660493000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_IntangibleAssetsAndGoodwill,무형자산,4049402000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentAccountedForUsingEquityMethod,관계기업 및 공동기업투자,1320927000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_InvestmentProperty,투자부동산,188000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentInvestmentsOtherThanInvestmentsAccountedForUsingEquityMethod,장기투자자산,14547099000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedAssetsDefinedBenefitPlan,종업원급여자산,1552888000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentAssets,기타비유동자산,144930000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialAssets,기타금융자산,1114462000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentReceivables,기타수취채권,420036000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_PropertyPlantAndEquipment,유형자산,77502704000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_RightofuseAssets,사용권자산,2336457000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_Equity,자본총계,120666751000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유지분,120516178000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_CapitalSurplus,자본잉여금,8953714000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_ElementsOfOtherStockholdersEquity,기타자본,-1348598000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_OtherComprehensiveIncomeLossAccumulatedAmount,기타포괄손익누계액,2676862000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_IssuedCapital,자본금,3657652000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_RetainedEarnings,이익잉여금,106576548000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncontrollingInterests,비지배지분,150573000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_EquityAndLiabilities,부채및자본총계,176107659000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLiabilities,유동부채,37378999000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_CurrentNontradePayables,기타지급채무,6283111000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_ShortTermOtherPayables,미지급금,6434144000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentBorrowingsAndCurrentPortionOfNoncurrentBorrowings,차입금,8161757000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentLeaseLiabilities,리스부채,547296000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentProvisions,충당부채,228937000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_CurrentTaxLiabilities,당기법인세부채,7023813000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentFinancialLiabilities,기타금융부채,4913879000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherCurrentLiabilities,기타유동부채,937607000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_TradeAndOtherCurrentPayablesToTradeSuppliers,매입채무,2848455000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_Liabilities,부채총계,55440908000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLiabilities,비유동부채,18061909000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,dart_NoncurrentNontradePayables,기타지급채무,19970000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_DeferredTaxLiabilities,이연법인세부채,248395000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_LongtermBorrowings,차입금,14086148000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentLeaseLiabilities,리스부채,1962647000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentProvisions,충당부채,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_NoncurrentRecognisedLiabilitiesDefinedBenefitPlan,확정급여부채,66144000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentFinancialLiabilities,기타금융부채,2487000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentLiabilities,기타비유동부채,1300977000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,BS,ifrs-full_OtherNoncurrentPayables,장기미지급금,375141000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,dart_OperatingIncomeLoss,영업이익(손실),47206319000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,dart_OtherGains,기타영업외수익,333277000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,dart_OtherLosses,기타영업외비용,377973000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,11484471000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncome,총포괄이익(손실),43017348000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,비지배지분,32940000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,지배기업의 소유주지분,42984408000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_CostOfSales,매출원가,38455885000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_BasicEarningsLossPerShare,기본주당순이익(손실),62044,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_DilutedEarningsLossPerShare,희석주당순이익(손실),60378,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceCosts,금융비용,12504998000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_FinanceIncome,금융수익,16373480000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_GrossProfit,매출총이익(손실),58690790000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),7517650000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익,69446000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되는 포괄손익,149079000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,2118000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,173701000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-26740000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,후속적으로 당기손익으로 재분류되지 않는 포괄손익,-79633000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-79633000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLoss,당기순이익(손실),42947902000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분,28615000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주지분,42919287000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),50465552000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_Revenue,매출액,97146675000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CIS,ifrs-full_ShareOfProfitLossOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법투자 관련 손익,-564553000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초 현금및현금성자산,11205117000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말 현금및현금성자산,14923766000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동 현금흐름,-1444992000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_DispositionOfTreasuryShares,자기주식의 처분,65035000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_ProceedsFromExerciseOfShareOptions,주식선택권의 행사,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,1681166000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,596465000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의 차입,8183735000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,7416131000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동 현금흐름,-48054251000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,85216000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,32880000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 감소,115091000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,6513772000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,178331000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 증가,1105649000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,18804330000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,사업결합으로 인한 현금유출,3079783000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 처분,1233030000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,-표준계정코드 미사용-,장기투자자산의 취득,33956000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInDecreaseIncreaseInShorttermDepositsAndInvestments,단기투자자산의 순증감,-4552604000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수령,144911000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,2142000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,관계기업투자주식의 처분,16875000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,144828000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,1060419000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,관계기업투자주식의 취득,9000000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,27518924000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동 현금흐름,53373126000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_CashFlowsFromUsedInOperations,영업으로부터 창출된 현금흐름,58904432000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수취,960716000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,5891155000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,938849000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,337982000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동효과,-155234000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,CF,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,3718649000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,73915704000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,12310000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,73903394000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,-2191549000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,2532107000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,65418061000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,3657652000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_EquityAtBeginningOfPeriod,기초자본,4487123000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),43017348000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),32940000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),42984408000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),144755000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),42839653000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ComprehensiveIncome,총포괄이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,2118000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,2118000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,2118000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,파생상품평가손익,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,173701000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,4324000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,169377000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,169377000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-79633000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-79633000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,-79633000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정요소,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),42947902000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),28616000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),42919286000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),42919286000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ProfitLoss,당기순이익(손실),0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-26740000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-26740000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,-26740000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,관계기업의 기타포괄손익에 대한 지분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,120666751000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,150573000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,120516178000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,-1348598000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,2676862000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,106576548000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,3657652000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_Equity,자본총계,8953714000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,3733699000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,105323000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,3628376000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,842951000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,-1681166000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughTransactionsWithOwners,자본에 직접 반영된 소유주와의 거래 합계,4466591000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,446000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,446000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,dart_ChangesInConsolidatedCompanies,연결대상 범위의 변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1681166000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1681166000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,1681166000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_DividendsPaid,배당금의 지급,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,73008000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,73008000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughChangesInOwnershipInterestsInSubsidiariesThatDoNotResultInLossOfControl,종속기업 유상증자 및 소유지분변동,73008000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,313313000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,104877000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,80477000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,127959000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_IncreaseDecreaseThroughSharebasedPaymentTransactions,주식선택권의 부여/행사,208436000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,5028098000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,714992000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,5028098000000,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,0,2025년,KRW
+2025,FY,4,annual,11011,CFS,EQ,ifrs-full_SaleOrIssueOfTreasuryShares,자기주식의 처분,4313106000000,2025년,KRW
