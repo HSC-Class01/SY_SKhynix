@@ -82,14 +82,15 @@ class PipelineTests(unittest.TestCase):
 
     def test_q3_cumulative_income_and_cash_flow_are_converted_to_quarter(self) -> None:
         rows = []
-        for period, order, revenue, operating_income, net_income, cash_flow in (
-            ("H1", 2, 600, 60, 20, 30),
-            ("Q3", 3, 900, 120, 50, 45),
+        for period, order, revenue, revenue_ytd, operating_income, operating_ytd, net_income, net_ytd, cash_flow in (
+            ("Q1", 1, 300, 300, 30, 30, 10, 10, 20),
+            ("H1", 2, 300, None, 30, None, 10, None, 60),
+            ("Q3", 3, 300, 900, 60, 120, 30, 50, 90),
         ):
             for name, amount, sj_div in (
                 ("매출액", revenue, "IS"),
                 ("영업이익", operating_income, "IS"),
-                ("반기순이익" if period == "H1" else "분기순이익", net_income, "IS"),
+                ("분기순이익" if period in {"Q1", "Q3"} else "반기순이익", net_income, "IS"),
                 ("자산총계", 1000, "BS"),
                 ("부채총계", 400, "BS"),
                 ("자본총계", 600, "BS"),
@@ -101,14 +102,56 @@ class PipelineTests(unittest.TestCase):
                     "report_code": "11012" if period == "H1" else "11014",
                     "fs_div": "CFS", "sj_div": sj_div,
                     "account_nm": name, "thstrm_amount": amount,
+                    "thstrm_add_amount": (
+                        revenue_ytd if name == "매출액" else
+                        operating_ytd if name == "영업이익" else
+                        net_ytd if name in {"반기순이익", "분기순이익"} else None
+                    ),
                 })
         pd.DataFrame(rows).to_csv(self.root / "data" / "financial_statements.csv", index=False)
         metrics = analyze(self.root).set_index("period")
+        self.assertEqual(metrics.loc["H1", "revenue"], 600)
+        self.assertEqual(metrics.loc["H1", "operating_income"], 60)
         self.assertEqual(metrics.loc["Q3", "revenue"], 300)
         self.assertEqual(metrics.loc["Q3", "operating_income"], 60)
         self.assertEqual(metrics.loc["H1", "net_income"], 20)
         self.assertEqual(metrics.loc["Q3", "net_income"], 30)
-        self.assertEqual(metrics.loc["Q3", "operating_cash_flow"], 15)
+        self.assertEqual(metrics.loc["Q3", "operating_cash_flow"], 30)
+
+        source = self.root / "data" / "financial_statements.csv"
+        collected = pd.read_csv(source)
+        for account, amount in (("매출액", 650), ("영업이익", 65), ("반기순이익", 25)):
+            collected.loc[
+                (collected["period"] == "H1")
+                & (collected["account_nm"] == account),
+                "thstrm_add_amount",
+            ] = amount
+        collected.to_csv(source, index=False)
+        from_official_cumulative = analyze(self.root).set_index("period")
+        self.assertEqual(from_official_cumulative.loc["H1", "revenue"], 650)
+        self.assertEqual(from_official_cumulative.loc["H1", "net_income"], 25)
+
+    def test_incremental_collection_preserves_older_statement_history(self) -> None:
+        statements = pd.DataFrame([{
+            "year": 2024, "period": "FY", "period_order": 4,
+            "category": "annual", "report_code": "11011", "fs_div": "CFS",
+            "sj_div": "BS", "account_id": "ifrs_Assets", "account_nm": "자산총계",
+            "thstrm_amount": 1000, "thstrm_add_amount": None,
+            "thstrm_nm": "2024년", "currency": "KRW",
+        }])
+        statements.to_csv(self.root / "data" / "financial_statements.csv", index=False)
+        pd.DataFrame([{
+            "year": 2024, "period": "FY", "period_order": 4,
+            "category": "annual", "report_code": "11011", "fs_div": "CFS",
+            "status": "saved", "accounts": 1,
+        }]).to_csv(self.root / "data" / "reports.csv", index=False)
+
+        summary = collect(self.root, FakeDartClient(), now_year=2026)
+        self.assertEqual(summary, {"saved": 2, "missing": 6})
+        refreshed = pd.read_csv(self.root / "data" / "financial_statements.csv")
+        self.assertEqual(
+            sorted(refreshed["year"].astype(int).unique()), [2024, 2025, 2026]
+        )
 
 
 if __name__ == "__main__":

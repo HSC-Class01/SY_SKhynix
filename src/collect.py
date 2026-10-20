@@ -26,6 +26,7 @@ ACCOUNT_COLUMNS = (
     "account_id",
     "account_nm",
     "thstrm_amount",
+    "thstrm_add_amount",
     "thstrm_nm",
     "currency",
 )
@@ -64,12 +65,35 @@ def collect(
     if start_year > end_year:
         raise ValueError("start_year가 현재 연도보다 큽니다.")
 
+    data_dir = root / "data"
+    source_path = data_dir / "financial_statements.csv"
+    reports_path = data_dir / "reports.csv"
+    preserved_accounts: list[dict[str, Any]] = []
+    preserved_reports: list[dict[str, Any]] = []
+    refresh_start_year = start_year
+    if source_path.exists() and source_path.stat().st_size > 0:
+        existing = pd.read_csv(source_path, dtype={"report_code": str})
+        if not existing.empty:
+            refresh_years = max(1, int(config.get("refresh_years", 2)))
+            refresh_start_year = max(start_year, end_year - refresh_years + 1)
+            preserved_accounts = existing[
+                existing["year"].astype(int) < refresh_start_year
+            ].to_dict(orient="records")
+            if reports_path.exists() and reports_path.stat().st_size > 0:
+                existing_reports = pd.read_csv(
+                    reports_path, dtype={"report_code": str}
+                )
+                if not existing_reports.empty:
+                    preserved_reports = existing_reports[
+                        existing_reports["year"].astype(int) < refresh_start_year
+                    ].to_dict(orient="records")
+
     corp_code = client.corp_code_for_stock(str(config["stock_code"]))
-    accounts: list[dict[str, Any]] = []
-    reports: list[dict[str, Any]] = []
+    accounts: list[dict[str, Any]] = preserved_accounts
+    reports: list[dict[str, Any]] = preserved_reports
     summary = {"saved": 0, "missing": 0}
 
-    for year in range(start_year, end_year + 1):
+    for year in range(refresh_start_year, end_year + 1):
         for report_code, period, category, period_order in REPORTS:
             base = {
                 "year": year,
@@ -104,7 +128,6 @@ def collect(
             summary["saved"] += 1
             time.sleep(0.12)
 
-    data_dir = root / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
     account_columns = [
         "year", "period", "period_order", "category", "report_code",

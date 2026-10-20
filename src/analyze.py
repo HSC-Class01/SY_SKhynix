@@ -64,13 +64,16 @@ def _amount(
     *,
     statement: tuple[str, ...] | None = None,
     sum_matches: bool = False,
+    value_column: str = "thstrm_amount",
 ) -> float | None:
+    if value_column not in group.columns:
+        return None
     names = {_normalized(alias) for alias in aliases}
     selected = group
     if statement and "sj_div" in group.columns and group["sj_div"].isin(statement).any():
         selected = group[group["sj_div"].isin(statement)]
     matches = selected[selected["account_nm"].map(_normalized).isin(names)]
-    values = [_number(value) for value in matches["thstrm_amount"]]
+    values = [_number(value) for value in matches[value_column]]
     values = [value for value in values if value is not None]
     if not values:
         return None
@@ -117,18 +120,43 @@ def analyze(root: Path = ROOT) -> pd.DataFrame:
                 aliases,
                 statement=statement_for[name],
                 sum_matches=name == "borrowings",
+                value_column=(
+                    "thstrm_add_amount"
+                    if base["period"] == "H1"
+                    and name in {"revenue", "operating_income", "net_income"}
+                    else "thstrm_amount"
+                ),
             )
             for name, aliases in ACCOUNT_ALIASES.items()
         }
-        # OpenDART reports Q3 income and cash-flow amounts year-to-date. Convert
-        # them to the standalone third quarter by removing H1 cumulative values.
+        if base["period"] == "H1":
+            # Older saved CSVs may not contain thstrm_add_amount. Reconstruct
+            # the six-month total as Q1 plus the H1 report's three-month value.
+            q1 = frame[
+                (frame["year"] == base["year"])
+                & (frame["period"] == "Q1")
+                & (frame["fs_div"] == base["fs_div"])
+            ]
+            for name in ("revenue", "operating_income", "net_income"):
+                if values[name] is not None:
+                    continue
+                q2_value = _amount(
+                    group, ACCOUNT_ALIASES[name], statement=statement_for[name]
+                )
+                q1_value = _amount(
+                    q1, ACCOUNT_ALIASES[name], statement=statement_for[name]
+                ) if not q1.empty else None
+                if q1_value is not None and q2_value is not None:
+                    values[name] = q1_value + q2_value
+        # Cash-flow statements are cumulative through Q3. Income statement
+        # values are already quarterly; H1 uses thstrm_add_amount above.
         if base["period"] == "Q3":
             prior = frame[
                 (frame["year"] == base["year"])
                 & (frame["period"] == "H1")
                 & (frame["fs_div"] == base["fs_div"])
             ]
-            for name in ("revenue", "operating_income", "net_income", "operating_cash_flow", "capex"):
+            for name in ("operating_cash_flow", "capex"):
                 prior_value = _amount(
                     prior,
                     ACCOUNT_ALIASES[name],

@@ -58,7 +58,7 @@
 
   const categories = [
     ["annual", "Annual", "사업보고서"],
-    ["half-year", "Half-year", "반기보고서"],
+    ["half-year", "Half-year", "반기보고서 · 1~6월 누적"],
     ["quarterly", "Quarterly", "1·3분기보고서"],
   ];
   const isSaved = report => report.status === "saved" || Number(report.account_count || report.accounts || 0) > 0;
